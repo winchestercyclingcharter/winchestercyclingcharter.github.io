@@ -1,6 +1,25 @@
-- name: Home
-  link: /
-- name: About
-  link: /about
-- name: Charter
-  link: /charter
+- title: The Charter
+  url: /charter
+- title: Organisations
+  url: /organisations
+  submenuitems:
+    - title: Organisation Support Form
+      url: /organisations/form
+    - title: Signatories
+      url: /organisations/signatories
+- title: Individuals
+  url: /individuals
+  submenuitems:
+    - title: Individual Support Form
+      url: /individuals/form
+    - title: Signatories
+      url: /individuals/signatories
+- title: FAQs
+  url: /faqs
+  submenuitems:
+    - title: FAQs
+      url: /faqs
+    - title: Privacy Policy
+      url: /faqs/privacy-policy
+- title: Contact
+  url: /contact
