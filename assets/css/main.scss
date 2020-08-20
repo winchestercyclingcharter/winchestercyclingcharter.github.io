@@ -12,13 +12,25 @@ body {
 }
 
 hr {
-  border-top: 10px solid #e0e4a5;
+  border-top: 20px solid #e0e4a5;
 
 }
-
-.narrowed {
-  width: 80%;
+@media (min-width: 992px) {
+  .narrowed {
+    width: 80%;
+  }
 }
 
-h1 {width:100%}
+.navbar-nav > .active > a { 
+  border-bottom: 5px #c9d061 solid; 
+}
+
+.nav-item {
+  text-align: center;
+  margin: 0 0.5em;
+}
+
+.navbar {
+  padding: .5rem 0;
+}
 
