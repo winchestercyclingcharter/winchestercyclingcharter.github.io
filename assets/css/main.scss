@@ -2,18 +2,47 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+// @import url(https://fonts.googleapis.com/css2?family=Libre+Franklin);
+@font-face {
+  font-family: 'franklingothic-book';
+  src: url('/assets/fonts/franklingothic-book-webfont.woff2') format('woff2'),
+       url('/assets/fonts/franklingothic-book-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'franklingothic-demi';
+  src: url('/assets/fonts//franklingothic-demi-webfont.woff2') format('woff2'),
+       url('/assets/fonts//franklingothic-demi-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 // Add your styles here
-$font-stack:    Helvetica, sans-serif;
+$font-stack:    Verdana, Helvetica, sans-serif;
 $primary-color: #333;
+$franklin: 'FranklinG', Arial, sans serif;
 
 body {
   font: 100% $font-stack;
   color: $primary-color;
 }
-
+h1 {
+  padding: 0.5rem 1rem;
+  font-family: franklingothic-book;
+  font-weight: 400;
+  color: #1d4e9e;
+  background-color: #c9d061;
+}
+#cycling-bold {
+  font-family: franklingothic-demi;
+  font-weight: 900;
+}
 hr {
   border-top: 20px solid #e0e4a5;
-
 }
 @media (min-width: 992px) {
   .narrowed {
@@ -32,5 +61,7 @@ hr {
 
 .navbar {
   padding: .5rem 0;
+  margin-bottom: 1rem;
 }
+
 
