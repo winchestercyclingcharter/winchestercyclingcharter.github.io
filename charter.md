@@ -6,10 +6,12 @@ layout: default
 title: Sign the Charter
 ---
 
-I would like to sign the Winchester Cycling Charter as an:
+### I would like to sign the Winchester Cycling Charter as an:
 
 - Organisation
 - Individual
+
+- - - -
 
 ## The Charter
 
@@ -18,7 +20,7 @@ institutions of Winchester want our historic city and surrounding
 countryside to be vibrant, sustainable and healthy places in which to live,
 work, do business, study and thrive.
 
-We want to see a Winchester where...
+#### We want to see a Winchester where...
 
 - Children and students can safely cycle to school and college.
 
@@ -33,7 +35,7 @@ We want to see a Winchester where...
   natural choice for a large proportion of everyday journeys.
 
 
-We believe that better provision for cycling can...
+#### We believe that better provision for cycling can...
 
 - Be instrumental in addressing Winchester’s challenges of reducing congestion, 
   achieving carbon neutrality, improving air quality and managing the effects 
@@ -52,7 +54,7 @@ We believe that better provision for cycling can...
 - Bring lasting local economic benefit.
 
 
-We want to support and encourage our local leaders...
+#### We want to support and encourage our local leaders...
 
 - To make decisions that deliver this better future for everyone in Winchester: 
   children, students, working people, retired people, schools, colleges, 

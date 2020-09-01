@@ -2,7 +2,6 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// @import url(https://fonts.googleapis.com/css2?family=Libre+Franklin);
 @font-face {
   font-family: 'franklingothic-book';
   src: url('/assets/fonts/franklingothic-book-webfont.woff2') format('woff2'),
@@ -24,7 +23,11 @@
 // Add your styles here
 $font-stack:    Verdana, Helvetica, sans-serif;
 $primary-color: #333;
-$franklin: 'FranklinG', Arial, sans serif;
+$title-text-color :#1d4e9e;
+$title-background-color: #c9d061;
+$body-text-color: #1f3057;
+$top-border-color: #e0e4a5;
+$lower-heading-color: #1f3057;
 
 body {
   font: 100% $font-stack;
@@ -34,15 +37,34 @@ h1 {
   padding: 0.5rem 1rem;
   font-family: franklingothic-book;
   font-weight: 400;
-  color: #1d4e9e;
-  background-color: #c9d061;
+  color: $title-text-color;
+  background-color: $title-background-color;
+}
+h2 {
+  font-family: franklingothic-book;
+  font-weight: 400;
+  color: $title-text-color;
+  font-size: 2.8rem;
+}
+h3 {
+  color: $lower-heading-color;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+h4 {
+  color: $lower-heading-color;
+  font-weight: 700;
+  font-size: 1rem;
 }
 #cycling-bold {
   font-family: franklingothic-demi;
   font-weight: 900;
 }
 hr {
-  border-top: 20px solid #e0e4a5;
+  border-top: 20px solid $top-border-color;
+}
+div#narrowed-2>hr {
+  border-top: 8px solid $title-background-color;
 }
 @media (min-width: 992px) {
   .narrowed {
@@ -50,8 +72,11 @@ hr {
   }
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: $primary-color;
+}
 .navbar-nav > .active > a { 
-  border-bottom: 5px #c9d061 solid; 
+  border-bottom: 5px $title-background-color solid; 
 }
 
 .nav-item {
@@ -62,6 +87,9 @@ hr {
 .navbar {
   padding: .5rem 0;
   margin-bottom: 1rem;
+}
+ul {
+  list-style-image: url('/assets/images/bullet.png');
 }
 
 
