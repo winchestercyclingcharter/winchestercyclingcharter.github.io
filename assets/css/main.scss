@@ -91,5 +91,17 @@ div#narrowed-2>hr {
 ul {
   list-style-image: url('/assets/images/bullet.png');
 }
-
-
+ul.OptionList {
+  overflow: hidden;
+}
+ul.OptionList li {
+  margin: 20px 20px;
+  float: left;
+}
+ul.OptionList li a {
+  color: white;
+  background-color: $lower-heading-color;
+  padding: 5px 20px;
+  font-size: larger;
+  text-align: center;
+}
