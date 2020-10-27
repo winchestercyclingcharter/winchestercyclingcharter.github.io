@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="container-fluid narrowed" id="narrowed-1 ">
+      <hr/>
+        <div class="container-fluid narrowed" id="narrowed-2">
+        {% include navbar.html %}
+          <h1>Winchester <span id=cycling-bold>Cycling</span> Charter</h1>
+          <h2>{{ page.title }}</h2>
+          <div class="row">
+              <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12">
+                {{ content }}
+              </div>
+              <div class="col">
+                <h3>{{ page.theothername}} Support </h3>
+                <p>I would like to sign as an <a href="{{ page.theotherpage }}"> {{ page.theothername }}</a></p>
+                <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
+                  <ul class="gallery">
+                    {% for org in page.orgs %}
+                      <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
+                    {% endfor %}
+                  </ul>
+              </div>
+            </div>
+          {% include footer.html %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

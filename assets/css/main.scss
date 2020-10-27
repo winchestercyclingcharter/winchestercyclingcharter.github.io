@@ -105,3 +105,13 @@ ul.OptionList li a {
   font-size: larger;
   text-align: center;
 }
+ul.gallery {
+  padding: 0px;
+  list-style: none;
+}
+ul.gallery li {
+  display: inline;
+  max-width: 168px;
+  float: left;
+  margin: 0 10px 10px 0;
+}

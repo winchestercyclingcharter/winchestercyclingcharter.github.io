@@ -1,0 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: twocolumn
+title: Individuals
+permalink: /individuals/form
+thisname: Invididual
+theothername: Organisation
+theotherpage: "/organisations/form"
+---
+
+### Individual Support Form
+
+Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. 
+
