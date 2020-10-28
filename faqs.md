@@ -36,7 +36,7 @@ Individuals are encouraged to support the Charter.
 
 The Charter was created to enable businesses / organisations to show their support for cycling.  Organisations can range from large employers in the city, businesses, shops, schools, colleges, health practices, gyms, churches, youth clubs, emergency services.
 
-### By signing the Charter are organisations showing support for the Cycle Winchester?
+### By signing the Charter are organisations showing support for Cycle Winchester?
 
 No.  We recognise that many organisations will be happy to support a call for better cycling provision without needing to align themselves with Cycle Winchester.
 
