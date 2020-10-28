@@ -1,0 +1,21 @@
+people:
+    - firstname: Michael 
+      lastname: Barnard
+    - firstname: Charles 
+      lastname: Bell
+    - firstname: Kimberly 
+      lastname: Ives
+    - firstname: Eddie 
+      lastname: MacKinnon
+    - firstname: Chris 
+      lastname: Packer
+    - firstname: Paul 
+      lastname: Sheppard
+    - firstname: Malcolm 
+      lastname: Spicer
+    - firstname: Joanne 
+      lastname: Stapleton
+    - firstname: Margaret 
+      lastname: Walls
+    - firstname: Garry 
+      lastname: Williams

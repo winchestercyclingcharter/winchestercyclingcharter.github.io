@@ -28,10 +28,12 @@ $title-background-color: #c9d061;
 $body-text-color: #1f3057;
 $top-border-color: #e0e4a5;
 $lower-heading-color: #1f3057;
+$body-background-color: #ffffff;
 
 body {
   font: 100% $font-stack;
   color: $primary-color;
+  background-color: $body-background-color;
 }
 h1 {
   padding: 0.5rem 1rem;
@@ -68,7 +70,8 @@ div#narrowed-2>hr {
 }
 @media (min-width: 992px) {
   .narrowed {
-    width: 80%;
+    width: 90%;
+    max-width: 950px;
   }
 }
 
@@ -114,4 +117,31 @@ ul.gallery li {
   max-width: 168px;
   float: left;
   margin: 0 10px 10px 0;
+}
+.supporters, .switchtype, .support-form-outer {
+  margin: 20px 0 50px;
+}
+.support-form {
+  margin: 50px 0;
+}
+.lhcol {
+  margin: 0 50px 0 0;
+}
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }

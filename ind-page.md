@@ -10,7 +10,6 @@ theothername: Organisation
 theotherpage: "/organisations/form"
 ---
 
-### Individual Support Form
 
-Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. 
+{% include thecharter.md %}
 

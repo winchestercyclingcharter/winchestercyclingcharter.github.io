@@ -8,24 +8,7 @@ permalink: /organisations/form
 thisname: Organisation
 theothername: Individual
 theotherpage: "/individuals/form"
-orgs:
-    - logo: axe.jpg
-      title: Axe Capital
-    - logo: colossus.jpg
-      title:   Colossus
-    - logo: cross.jpg
-      title: Cross Technologies
-    - logo: hampton.jpg
-      title:   Hampton DeVille
-    - logo: planet.jpg
-      title: Daily Planet
-    - logo: spider.jpg
-      title:   SPECTRE
-    - logo: westworld.jpg
-      title: Westworld
 ---
 
-### Organisation Support Form
-
-Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. Some sentences. 
+{% include thecharter.md %}
 

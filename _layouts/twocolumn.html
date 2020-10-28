@@ -18,18 +18,67 @@
           <h1>Winchester <span id=cycling-bold>Cycling</span> Charter</h1>
           <h2>{{ page.title }}</h2>
           <div class="row">
-              <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12">
+
+              <!-- left-hand column contains the contact form -->
+              <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12 lhcol">
+                <div class="support-form-outer">
+                <h3>{{ page.thisname }} Support Form</h3>
+                  <form class="support-form" action="https://formsubmit.co/fsbmt@bagu.uk" method=post>
+                    <div class="form-group">
+                      <label for="FirstName">First Name (required)</label>
+                      <input type="text" class="form-control" id="FirstName1" placeholder="" required="true">
+                    </div>
+                    <div class="form-group">
+                      <label for="LastName">Last Name (required)</label>
+                      <input type="text" class="form-control" id="LastName1" placeholder="" required="true">
+                    </div>
+                    <div class="form-group">
+                      <label for="Email">Your Email (required)</label>
+                      <input type="email" class="form-control" id="Email1" aria-describedby="emailHelp" placeholder="name@example.com" required="true">
+                      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    </div>
+                    {% if page.thisname == "Organisation" %}
+                      <div class="form-group">
+                        <label for="Role">Your Role</label>
+                        <input type="text" class="form-control" id="Role1" placeholder="">
+                      </div>
+                      <div class="form-group">
+                        <label for="Organisation">Your Organisation's Name (required)</label>
+                        <input type="text" class="form-control" id="Organisation1" placeholder="" required="true">
+                      </div>
+                    {% endif %}
+                    <button type="submit" class="btn btn-primary">Sign</button>
+                  </form>
+                </div>
                 {{ content }}
               </div>
-              <div class="col">
-                <h3>{{ page.theothername}} Support </h3>
-                <p>I would like to sign as an <a href="{{ page.theotherpage }}"> {{ page.theothername }}</a></p>
-                <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
-                  <ul class="gallery">
-                    {% for org in page.orgs %}
-                      <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
-                    {% endfor %}
-                  </ul>
+
+              <!-- rh column allows switching to the other type (org/ind), and lists supporters -->
+              <div class="col rhcol">
+                
+                <!-- switch -->
+                <div class="switchtype">
+                  <h3>{{ page.theothername}} Support </h3>
+                  <p>I would like to sign as an <a href="{{ page.theotherpage }}"> {{ page.theothername }}</a></p>
+                </div>
+
+                <!-- supporters -->
+                <div class="supporters">
+                  <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
+                    {% if page.thisname == "Organisation" %}
+                      <ul class="gallery">
+                        {% for org in site.data.orgs.orgs %}
+                          <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
+                        {% endfor %}
+                      </ul>
+                    {% else %}
+                      <ul>
+                        {% for person in site.data.people.people %}
+                          <li>{{ person.firstname }} {{ person.lastname }}</li>
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                </div>
               </div>
             </div>
           {% include footer.html %}
