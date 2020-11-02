@@ -22,7 +22,7 @@ It outlines the benefits cycling can bring to our city and is something that bus
 
 The Charter enables organisations across the city to express their support for cycling, showing they understand that cycling is good for business, good for our health, good for the economy and builds a better city for us to live in.
 
-Charter signatories demonstrate to Winchester and Hampsire’s leaders that there is wide support for cycling and a growing consensus for investment in better cycling infrastructure.
+Charter signatories demonstrate to Winchester and Hampshire’s leaders that there is wide support for cycling and a growing consensus for investment in better cycling infrastructure.
 
 ### Why doesn’t the Charter talk about segregated infrastructure, reducing traffic, filtered permeability and other cycling infrastructure solutions?
 
@@ -48,13 +48,15 @@ The Charter will echo many organisations’ sustainability policies and we antic
 
 ### How do organisations and individuals indicate their support for the Charter?
 
-There are three ways:
+There are two ways:
 
 1.    Online: use the links on this page to register your support for the Charter.
 
 2.   Verbally: Speak to the person who brought the Charter to your attention and indicate your support.  They will then register this onto the website.
 
-3.   Go public: draft a press release indicating your organisation’s support for the Charter. Some suggested wording for a press release can be found here.  Tweet out your support, including #WinchesterCyclingCharter or @Cyclewin.  Quotes and copy for a press releases can be made available by emailing [info@winchestercyclingcharter.org.uk](mailto:info@winchestercyclingcharter.org.uk) or using examples from here.
+### What else can my organisation do to support the Charter
+
+We'd encourage you to go public, e.g. post on social media and/or draft a press release indicating your organisation’s support for the Charter. We can provide suggested wording for a press release.  Tweet out your support, including #WinchesterCyclingCharter or @Cyclewin.  Quotes and copy for a press releases can be made available by emailing [info@winchestercyclingcharter.org.uk](mailto:info@winchestercyclingcharter.org.uk).
 
 ### How will the support for the Charter be publicised?
 

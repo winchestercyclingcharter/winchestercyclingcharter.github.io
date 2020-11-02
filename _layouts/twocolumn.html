@@ -10,6 +10,7 @@
     {% seo %}
   </head>
   <body>
+    
     <div class="container-fluid">
       <div class="container-fluid narrowed" id="narrowed-1 ">
       <hr/>
@@ -22,33 +23,59 @@
               <!-- left-hand column contains the contact form -->
               <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12 lhcol">
                 <div class="support-form-outer">
-                <h3>{{ page.thisname }} Support Form</h3>
-                  <form class="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method=post name="_next" value="{{site}}/thanks">
+                <h3>{{ page.thisname }} support form</h3>
+                <p>Please complete this form to confirm your 
+                  {% if page.thisname == "Organisation" %}
+                  organisation's 
+                  {% endif %}
+                  support for the Winchester Cycling Charter. 
+                </p>
+                <p>
+                  The names of organisations and individuals who have signed the Charter will be published on this website. 
+                  Your email address will not be displayed. We will use your email address to confirm your support. 
+                  Only if you opt-in to updates by ticking the box below, will we send you subsequent email updates about the Charter. 
+                  You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
+                </p>
+                  <form class="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+                    {% if page.thisname == "Organisation" %}
+                    <div class="form-group required">
+                      <label for="Organisation" class='control-label'>Name of your organisation</label>
+                      <input type="text" class="form-control" name="organisation" id="Organisation1" placeholder="" required="true">
+                    </div>
                     <div class="form-group">
-                      <label for="FirstName">First Name (required)</label>
+                      <label for="OrgWebsite" class='control-label'>Organisation's website</label>
+                      <input type="text" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="">
+                    </div>
+                    <div class="form-group">
+                      <label for="Role">Your role in the organisation</label>
+                      <input type="text" class="form-control" name="role" id="Role1" placeholder="">
+                    </div>
+                  {% endif %}
+                    <div class="form-group required">
+                      <label for="FirstName" class='control-label'>Your first name</label>
                       <input type="text" class="form-control" name="firstName" id="FirstName1" placeholder="" required="true">
                     </div>
-                    <div class="form-group">
-                      <label for="LastName">Last Name (required)</label>
+                    <div class="form-group required">
+                      <label for="LastName" class='control-label'>Your last name</label>
                       <input type="text" class="form-control" name="lastName" id="LastName1" placeholder="" required="true">
                     </div>
-                    <div class="form-group">
-                      <label for="Email">Your Email (required)</label>
+                    <div class="form-group required">
+                      <label for="Email" class='control-label'>Your email</label>
                       <input type="email" class="form-control" name="email" id="Email1" aria-describedby="emailHelp" placeholder="name@example.com" required="true">
-                      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
-                    {% if page.thisname == "Organisation" %}
-                      <div class="form-group">
-                        <label for="Role">Your Role</label>
-                        <input type="text" class="form-control" name="role" id="Role1" placeholder="">
+                    <div class="form-group">
+                      <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                        <label class="form-check-label" for="inlineCheckbox1">Tick this box if you'd like to receive updates from us by email.</label>
                       </div>
-                      <div class="form-group">
-                        <label for="Organisation">Your Organisation's Name (required)</label>
-                        <input type="text" class="form-control" name="organisation" id="Organisation1" placeholder="" required="true">
-                      </div>
-                    {% endif %}
+                    </div>
                     <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
-                    <button type="submit" class="btn btn-primary">Sign</button>
+                    <div class="form-group">
+                      <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback"></div>
+                      <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
                   </form>
                 </div>
                 {{ content }}
@@ -59,7 +86,7 @@
                 
                 <!-- switch -->
                 <div class="switchtype">
-                  <h3>{{ page.theothername}} Support </h3>
+                  <h3>{{ page.theothername}} support </h3>
                   <p>I would like to sign as an <a href="{{ page.theotherpage }}"> {{ page.theothername }}</a></p>
                 </div>
 
@@ -86,5 +113,6 @@
         </div>
       </div>
     </div>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
   </body>
 </html>
