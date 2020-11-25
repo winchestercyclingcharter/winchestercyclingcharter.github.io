@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <script>
+      function recaptchaCallback() {
+        console.log("called back")
+        document.getElementById("CaptchaCompleted1").value = grecaptcha.getResponse();
+      }
+    </script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     {% seo %}
@@ -24,8 +31,9 @@
             </div>
 
             <div class="form-group">
-              <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback"></div>
-              <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+              <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="recaptchaCallback"></div>
+              <!-- <input class="form-control d-none" id="CaptchaCompleted1" name="captchaCompleted" required data-error="Please confirm you are not a robot"> -->
+              <input class="form-control d-none" id="CaptchaCompleted1" name="captchaCompleted" required data-error="Please confirm you are not a robot">
               <div class="help-block with-errors"></div>
             </div>
 
@@ -35,6 +43,5 @@
         </div>
       </div>
     </div>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
   </body>
 </html>
