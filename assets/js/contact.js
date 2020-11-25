@@ -1,14 +1,23 @@
 $(function () {
 
+    // callbacks related to the Recaptcha
+    window.verifyRecaptchaCallback = function (response) {
+        $('input[data-recaptcha]').val(response).trigger('change');
+    }
+
+    window.expiredRecaptchaCallback = function () {
+        $('input[data-recaptcha]').val("").trigger('change');
+    }
+
     // init the validator
     // validator files are included in the download package
     // otherwise download from http://1000hz.github.io/bootstrap-validator
 
-    $('#contact-form').validator();
+    $('#support-form').validator();
 
 
     // when the form is submitted
-    $('#contact-form').on('submit', function (e) {
+    $('#support-form').on('submit', function (e) {
 
         // if the validator does not prevent form submit
         if (!e.isDefaultPrevented()) {
@@ -33,9 +42,9 @@ $(function () {
                     // If we have messageAlert and messageText
                     if (messageAlert && messageText) {
                         // inject the alert to .messages div in our form
-                        $('#contact-form').find('.messages').html(alertBox);
+                        $('#support-form').find('.messages').html(alertBox);
                         // empty the form
-                        $('#contact-form')[0].reset();
+                        $('#support-form')[0].reset();
                     }
                 }
             });

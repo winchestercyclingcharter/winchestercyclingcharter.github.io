@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thanks For Your Support
+title: Thanks for your support
 permalink: /thanks
 ---
 

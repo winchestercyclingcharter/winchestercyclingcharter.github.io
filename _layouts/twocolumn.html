@@ -5,13 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
-    <script>
-      function recaptchaCallback() {
-        console.log("called back")
-        document.getElementById("CaptchaCompleted1").value = true;
-      }
-    </script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     {% seo %}
@@ -43,7 +36,7 @@
                   Only if you opt-in to updates by ticking the box below, will we send you subsequent email updates about the Charter. 
                   You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
                 </p>
-                  <form class="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+                  <form id="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
                     <fieldset>
                       <legend>Your details</legend>
                       <div class="form-group required">
@@ -64,11 +57,12 @@
                       </div>
                       <div class="form-group">
                         <div class="form-check form-check-inline">
-                          <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-                          <label class="form-check-label" for="inlineCheckbox1">Tick this box if you'd like to receive updates from us by email.</label>
+                          <input class="form-check-input" type="checkbox" name="emailOptIn" id="inlineCheckbox1" value="yes">
+                          <label class="form-check-label" for="inlineCheckbox1">Tick if you'd like to receive email updates from us about the charter.</label>
                         </div>
                       </div>
                     </fieldset>
+
                     {% if page.thisname == "Organisation" %}
                       <fieldset>
                         <legend>Your organisation</legend>
@@ -87,12 +81,9 @@
                       </fieldset>
                     {% endif %}
 
-
-
-
                     <div class="form-group">
-                      <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="recaptchaCallback"></div>
-                      <input class="form-control d-none" id="CaptchaCompleted1" name="captchaCompleted" required data-error="Please confirm you are not a robot">
+                      <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="verifyRecaptchaCallback"></div>
+                      <input class="form-control d-none" data-recaptcha="true" required="true" data-error="Please confirm you are not a robot">
                       <div class="help-block with-errors"></div>
                     </div>
                     <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
@@ -134,5 +125,10 @@
         </div>
       </div>
     </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+    <script src="/assets/js/contact.js"></script>
+    <script src="/assets/js/validator.js"></script>
   </body>
 </html>
