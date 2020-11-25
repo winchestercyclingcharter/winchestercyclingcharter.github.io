@@ -30,6 +30,7 @@ twitter:
   username: winchestercyclingcharter
   card: summary
 github_username:  winchestercyclingcharter
+github: [metadata]
 
 # Build settings
 theme: minima

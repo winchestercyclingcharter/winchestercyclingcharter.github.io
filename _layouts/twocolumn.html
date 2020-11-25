@@ -37,7 +37,7 @@
                   You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
                 </p>
                   <form class="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
-                    {% if page.thisname == "Organisation" %}
+                    <!-- {% if page.thisname == "Organisation" %}
                     <div class="form-group required">
                       <label for="Organisation" class='control-label'>Name of your organisation</label>
                       <input type="text" class="form-control" name="organisation" id="Organisation1" placeholder="" required="true">
@@ -50,12 +50,12 @@
                       <label for="Role">Your role in the organisation</label>
                       <input type="text" class="form-control" name="role" id="Role1" placeholder="">
                     </div>
-                  {% endif %}
+                  {% endif %} -->
                     <div class="form-group required">
                       <label for="FirstName" class='control-label'>Your first name</label>
                       <input type="text" class="form-control" name="firstName" id="FirstName1" placeholder="" required="true">
                     </div>
-                    <div class="form-group required">
+                    <!-- <div class="form-group required">
                       <label for="LastName" class='control-label'>Your last name</label>
                       <input type="text" class="form-control" name="lastName" id="LastName1" placeholder="" required="true">
                     </div>
@@ -68,13 +68,13 @@
                         <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
                         <label class="form-check-label" for="inlineCheckbox1">Tick this box if you'd like to receive updates from us by email.</label>
                       </div>
-                    </div>
-                    <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
-                    <div class="form-group">
+                    </div> -->
+                    <!-- <div class="form-group">
                       <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback"></div>
                       <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
                       <div class="help-block with-errors"></div>
-                    </div>
+                    </div> -->
+                    <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
                     <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
                   </form>
                 </div>

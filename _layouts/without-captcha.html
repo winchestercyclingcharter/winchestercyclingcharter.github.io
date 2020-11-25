@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    {% seo %}
+  </head>
+  <body>   
+    <div class="container-fluid">
+      <div class="container-fluid narrowed" id="narrowed-1 ">
+        <h1>Winchester <span id=cycling-bold>Cycling</span> Charter</h1>
+        <h2>{{ page.title }}</h2>
+        <div class="row">
+          <div class="support-form-outer">
+          <h3>{{ page.thisname }} support form</h3>
+          <form class="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+            <div class="form-group required">
+              <label for="FirstName" class='control-label'>Your first name</label>
+              <input type="text" class="form-control" name="firstName" id="FirstName1" placeholder="" required="true">
+            </div>
+
+            <!-- <div class="form-group">
+              <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback"></div>
+              <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+              <div class="help-block with-errors"></div>
+            </div> -->
+
+            <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
+            <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+  </body>
+</html>
