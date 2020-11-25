@@ -35,7 +35,6 @@ github_username:  winchestercyclingcharter
 theme: minima
 plugins:
   - jekyll-feed
-gems:
   - jekyll-redirect-from
 sass:
   sass_dir: assets/css
