@@ -3,7 +3,7 @@
 layout: twocolumn
 title: Individuals
 permalink: /individuals/form
-thisname: Invididual
+thisname: Individual
 theothername: Organisation
 theotherpage: "/organisations/form"
 ---
