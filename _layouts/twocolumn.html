@@ -49,14 +49,15 @@
                         <input type="text" class="form-control" name="lastName" id="LastName1" placeholder="" required="true">
                         <div class="help-block with-errors"></div>
                       </div>
+                      <div class="form-group">
+                        <label for="Postcode" class='control-label'>Postcode</label>
+                        <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
+                        <input type="text" class="form-control" name="postcode" id="Postcode1" required="false" pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA">
+                        <div class="help-block with-errors"></div>
+                      </div>
                       <div class="form-group required">
                         <label for="Email" class='control-label'>Email</label>
                         <input type="email" class="form-control" name="email" id="Email1" aria-describedby="emailHelp" placeholder="name@example.com" required="true">
-                        <div class="help-block with-errors"></div>
-                      </div>
-                      <div class="form-group">
-                        <label for="Postcode" class='control-label'>Postcode</label>
-                        <input type="text" class="form-control" name="postcode" id="Postcode1" required="false">
                         <div class="help-block with-errors"></div>
                       </div>
                       <div class="form-group">
@@ -78,7 +79,7 @@
                         </div>
                         <div class="form-group">
                           <label for="OrgWebsite" class='control-label'>Website</label>
-                          <input type="text" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="">
+                          <input type="url" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="https://example.com">
                           <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group">
