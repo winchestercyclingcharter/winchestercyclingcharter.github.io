@@ -1,0 +1,17 @@
+<!-- supporters -->
+<div class="supporters">
+    <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
+        {% if page.thisname == "Organisation" %}
+        <ul class="gallery">
+            {% for org in site.data.orgs.orgs %}
+            <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <ul>
+            {% for person in site.data.people.people %}
+            <li>{{ person.firstname }} {{ person.lastname }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>

@@ -21,28 +21,15 @@
 
               <!-- left-hand column contains the contact form -->
               <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-xs-12 lhcol">
-                <div class="support-form-outer">
-                <h3>{{ page.thisname }} support form</h3>
-                <p>Please complete this form to confirm your 
-                  {% if page.thisname == "Organisation" %}
-                  organisation's 
-                  {% endif %}
-                  support for the Winchester Cycling Charter. 
-                </p>
-                <p>
-                  The names of organisations and individuals who have signed the Charter will be published on this website. 
-                  Your email address will not be displayed. We will use your email address to confirm your support. 
-                  Only if you opt-in to updates by ticking the box below, will we send you subsequent email updates about the Charter. 
-                  You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
-                </p>
 
                 {% include form.html %}
 
-                </div>
+                <!-- followed by any other content e.g. text of the charter -->
                 {{ content }}
+
               </div>
 
-              <!-- rh column allows switching to the other type (org/ind), and lists supporters -->
+              <!-- RH column allows switching to the other type (org/ind), and lists supporters -->
               <div class="col rhcol">
                 
                 <!-- switch -->
@@ -51,23 +38,9 @@
                   <p>I would like to sign as an <a href="{{ page.theotherpage }}"> {{ page.theothername }}</a></p>
                 </div>
 
-                <!-- supporters -->
-                <div class="supporters">
-                  <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
-                    {% if page.thisname == "Organisation" %}
-                      <ul class="gallery">
-                        {% for org in site.data.orgs.orgs %}
-                          <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
-                        {% endfor %}
-                      </ul>
-                    {% else %}
-                      <ul>
-                        {% for person in site.data.people.people %}
-                          <li>{{ person.firstname }} {{ person.lastname }}</li>
-                        {% endfor %}
-                      </ul>
-                    {% endif %}
-                </div>
+                <!-- List the existing supporters -->
+                {% include supporters.html %}
+
               </div>
             </div>
           {% include footer.html %}

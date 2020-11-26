@@ -1,0 +1,93 @@
+<div class="support-form-outer">
+  <h3>{{ page.thisname }} support form</h3>
+  <p>Please complete this form to confirm your 
+    {% if page.thisname == "Organisation" %}
+    organisation's 
+    {% endif %}
+    support for the Winchester Cycling Charter. 
+  </p>
+  <p>
+    The names of organisations and individuals who have signed the Charter will be published on this website. 
+    Your email address will not be displayed. We will use your email address to confirm your support. 
+    Only if you opt-in to updates by ticking the box below, will we send you subsequent email updates about the Charter. 
+    You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
+  </p>
+
+    <form id="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+      <fieldset>
+        <legend>Your details</legend>
+
+        <div class="form-group required">
+          <label for="FirstName" class='control-label'>First name</label>
+          <input type="text" class="form-control" name="firstName" id="FirstName1" placeholder="" required="true">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group required">
+          <label for="LastName" class='control-label'>Last name</label>
+          <input type="text" class="form-control" name="lastName" id="LastName1" placeholder="" required="true">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <label for="Postcode" class='control-label'>Postcode</label>
+          <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
+          <input type="text" class="form-control" name="postcode" id="Postcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group required">
+          <label for="Email" class='control-label'>Email</label>
+          <input type="email" class="form-control" name="email" id="Email1" aria-describedby="emailHelp" placeholder="name@example.com" required="true">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="checkbox" name="emailOptIn" id="inlineCheckbox1" value="yes">
+            <label class="form-check-label" for="inlineCheckbox1">Tick if you'd like to receive email updates from us about the charter.</label>
+            <div class="help-block with-errors"></div>
+          </div>
+        </div>
+
+      </fieldset>
+
+      {% if page.thisname == "Organisation" %}
+        <fieldset>
+          <legend>Your organisation</legend>
+
+          <div class="form-group required">
+            <label for="Organisation" class='control-label'>Name</label>
+            <input type="text" class="form-control" name="organisation" id="Organisation1" placeholder="" required="true">
+            <div class="help-block with-errors"></div>
+          </div>
+
+          <div class="form-group">
+            <label for="OrgWebsite" class='control-label'>Website</label>
+            <input type="url" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="https://example.com">
+            <div class="help-block with-errors"></div>
+          </div>
+
+          <div class="form-group">
+            <label for="Role">Your role in the organisation</label>
+            <input type="text" class="form-control" name="role" id="Role1" placeholder="">
+            <div class="help-block with-errors"></div>
+          </div>
+
+        </fieldset>
+      {% endif %}
+
+      <div class="form-group">
+        <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="verifyRecaptchaCallback"></div>
+        <input class="form-control d-none" data-recaptcha="true" required="true" data-error="Please confirm you are not a robot">
+        <div class="help-block with-errors"></div>
+      </div>
+
+      <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
+      <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
+
+    </form>
+    
+  </div>
+
+
