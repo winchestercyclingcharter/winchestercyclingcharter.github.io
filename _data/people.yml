@@ -1,6 +1,5 @@
 people:
-    - firstname: Michael 
-      lastname: Barnard
+    - {lastname: Michael, firstname: Barnard, founding: yes}
     - firstname: Charles 
       lastname: Bell
     - firstname: Kimberly 
