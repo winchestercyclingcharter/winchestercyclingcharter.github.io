@@ -8,9 +8,10 @@ permalink: /organisations/signatories
 {{ site.data.orgs.orgs.size }} organisations have signed the Charter.
 
 
-{% for org in site.data.orgs.orgs %}
-  - {{ org.title }} 
-{% endfor %}
+{% include logogrid.html %}
+
+
+
 
 
 

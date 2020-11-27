@@ -1,0 +1,17 @@
+<div class="container">
+    
+    <div class="row text-center text-lg-left">
+        {% for org in site.data.orgs.orgs %}
+            <div class="col-lg-3 col-md-4 col-6">
+
+                <a href="{{org.website}}" class="d-block mb-4 h-100">
+                    <span class="founder">{% if org.founding %}Founding signatory{% endif %}&nbsp;</span>
+                    <span class="orgtitle">{{org.title}}</span>
+                    <img class="img-fluid img-thumbnail" src="/assets/images/{{org.logo}}" alt="">
+                </a>
+            </div>
+        {% endfor %}
+
+    </div>
+  
+</div>

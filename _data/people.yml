@@ -5,8 +5,10 @@ people:
       lastname: Bell
     - firstname: Kimberly 
       lastname: Ives
+      founding: yes
     - firstname: Eddie 
       lastname: MacKinnon
+      founding: yes
     - firstname: Chris 
       lastname: Packer
     - firstname: Paul 

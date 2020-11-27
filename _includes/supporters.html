@@ -1,16 +1,23 @@
 <!-- supporters -->
 <div class="supporters">
     <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
+        <p>* = founding signatories.</p>
         {% if page.thisname == "Organisation" %}
-        <ul class="gallery">
+        <ul>
             {% for org in site.data.orgs.orgs %}
-            <li><img src="/assets/images/{{ org.logo }}" alt="{{ org.title }}"/></li>
+                <li>
+                    <a href="{{org.website}}">
+                        {{ org.title }}{% if org.founding %}<sup>*</sup></sup>{% endif %}
+                    </a>
+                </li>
             {% endfor %}
         </ul>
         {% else %}
         <ul>
             {% for person in site.data.people.people %}
-            <li>{{ person.firstname }} {{ person.lastname }}</li>
+            <li>
+                {{ person.firstname }} {{ person.lastname }}{% if person.founding %}<sup>*</sup></sup>{% endif %}
+            </li>
             {% endfor %}
         </ul>
         {% endif %}
