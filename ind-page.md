@@ -1,5 +1,4 @@
 ---
-
 layout: twocolumn
 title: Individuals
 permalink: /individuals/form

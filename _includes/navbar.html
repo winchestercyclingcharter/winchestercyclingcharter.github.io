@@ -1,50 +1,43 @@
-<nav class="navbar navbar-expand-sm navbar-light" id=navbar>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <ul class="navbar-nav">
+<nav class="navbar navbar-expand-md navbar-light" id=navbar>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/charter">The Charter<span class="sr-only">(current)</span></a>
+      </li>
+
+      {% unless site.phase == "prelaunch" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/organisations/form">Organisations</a>
+      </li>
+
         <li class="nav-item">
-          <a class="nav-link" href="/charter">The Charter<span class="sr-only">(current)</span></a>
-        </li>
-
-        {% unless site.phase == "prelaunch" %}
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Organisations
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/organisations/form">Organisation support form</a>
-            <a class="dropdown-item" href="/organisations/signatories">Signatories</a>
-          </div>
-        </li>
-
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Individuals
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/individuals/form">Individual support form</a>
-            <a class="dropdown-item" href="/individuals/signatories">Signatories</a>
-          </div>
-        </li>
-        {% endunless %}
-
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            FAQs
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/faqs">FAQs</a>
-            <a class="dropdown-item" href="/faqs/privacy-policy">Privacy policy</a>
-          </div>
+          <a class="nav-link" href="/individuals/form">Individuals</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="/contact">Contact</a>
+          <a class="nav-link" href="/supporters">Supporters</a>
         </li>
 
-      </ul>
-    </div>
-  </nav>
+      {% endunless %}
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          FAQs
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/faqs">FAQs</a>
+          <a class="dropdown-item" href="/faqs/privacy-policy">Privacy policy</a>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="/contact">Contact</a>
+      </li>
+
+    </ul>
+  </div>
+</nav>
 

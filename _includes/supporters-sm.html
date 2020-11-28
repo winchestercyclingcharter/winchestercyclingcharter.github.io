@@ -1,7 +1,7 @@
 <!-- supporters -->
 <div class="supporters">
     <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
-        {% if page.thisname == "Organisation" %}
+    {% if page.thisname == "Organisation" %}
         <p>* = founding signatories.</p>
         <ul>
             {% for org in site.data.orgs.orgs %}
@@ -20,5 +20,5 @@
             </li>
             {% endfor %}
         </ul>
-        {% endif %}
-    </div>
+    {% endif %}
+</div>
