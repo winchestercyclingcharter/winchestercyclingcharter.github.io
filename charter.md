@@ -13,14 +13,17 @@ redirect_from: "/"
 <li><a href="/organisations/form">Organisation</a></li>
 <li><a href="/individuals/form">Individual</a></li>
 </ul>
+
 {% else %}
 
 ### Winchester Cycling Charter will launch early in 2021.
 
-We are currently offering organisations and individuals the opportunity to 
-become foundation signatories of the Charter. If this opportunity is of 
-interest, please contact us via email at 
-[info@winchestercyclingcharter.org.uk](mailto:info@winchestercyclingcharter.org.uk)
+We are currently offering local organisations the opportunity to 
+become foundation signatories of the Charter. Foundation signatories will have 
+their name and logo prominently displayed on our website, in recognition of 
+their leadership in making Winchester a vibrant, sustainable and healthy city.
+If this is of interest, please contact us via email at 
+[info@winchestercyclingcharter.org.uk](mailto:info@winchestercyclingcharter.org.uk).
 
 {% endunless %}
 
