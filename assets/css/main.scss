@@ -184,7 +184,12 @@ blockquote p {
   font-weight: 700;
   font-size: 80%;
 }
-
+.card-columns .card {
+  border: none;
+  background-image: url('/assets/images/bullet.png');
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
 
 
 

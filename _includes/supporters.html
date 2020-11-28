@@ -1,8 +1,8 @@
 <!-- supporters -->
 <div class="supporters">
     <h3>Some {{ page.thisname }}s who have supported the Charter</h3>
-        <p>* = founding signatories.</p>
         {% if page.thisname == "Organisation" %}
+        <p>* = founding signatories.</p>
         <ul>
             {% for org in site.data.orgs.orgs %}
                 <li>

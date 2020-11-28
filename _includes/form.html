@@ -30,12 +30,14 @@
           <div class="help-block with-errors"></div>
         </div>
 
-        <div class="form-group">
-          <label for="Postcode" class='control-label'>Postcode</label>
-          <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
-          <input type="text" class="form-control" name="postcode" id="Postcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
-          <div class="help-block with-errors"></div>
-        </div>
+        {% unless page.thisname == "Organisation" %}
+          <div class="form-group">
+            <label for="Postcode" class='control-label'>Postcode</label>
+            <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
+            <input type="text" class="form-control" name="indPostcode" id="indPostcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
+            <div class="help-block with-errors"></div>
+          </div>
+        {% endunless %}
 
         <div class="form-group required">
           <label for="Email" class='control-label'>Email</label>
@@ -59,7 +61,7 @@
 
           <div class="form-group required">
             <label for="Organisation" class='control-label'>Name</label>
-            <input type="text" class="form-control" name="organisation" id="Organisation1" placeholder="" required="true">
+            <input type="text" class="form-control" name="orgName" id="orgName1" placeholder="" required="true">
             <div class="help-block with-errors"></div>
           </div>
 
@@ -70,8 +72,15 @@
           </div>
 
           <div class="form-group">
+            <label for="Postcode" class='control-label'>Postcode</label>
+            <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
+            <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
+            <div class="help-block with-errors"></div>
+          </div>
+
+          <div class="form-group">
             <label for="Role">Your role in the organisation</label>
-            <input type="text" class="form-control" name="role" id="Role1" placeholder="">
+            <input type="text" class="form-control" name="orgRole" id="orgRole1" placeholder="">
             <div class="help-block with-errors"></div>
           </div>
 

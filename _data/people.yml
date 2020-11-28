@@ -1,13 +1,11 @@
 people:
-    - {lastname: Michael, firstname: Barnard, founding: yes}
+    - {lastname: Barnard, firstname: Michael}
     - firstname: Charles 
       lastname: Bell
     - firstname: Kimberly 
       lastname: Ives
-      founding: yes
     - firstname: Eddie 
-      lastname: MacKinnon
-      founding: yes
+      lastname: MacKinnon Ponsonby Smythe
     - firstname: Chris 
       lastname: Packer
     - firstname: Paul 

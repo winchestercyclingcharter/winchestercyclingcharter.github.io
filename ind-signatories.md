@@ -5,12 +5,15 @@ permalink: /individuals/signatories
 
 ---
 
-{{ site.data.people.people.size }} individuals have signed the Charter. (* = founding signatories.)
+{{ site.data.people.people.size }} individuals have signed the Charter. 
+
+  <ul class="card-columns">
+    {% for person in site.data.people.people %}
+      <li class="card">{{ person.firstname }} {{ person.lastname }}</li>
+    {% endfor %}
+  </ul>
 
 
-{% for person in site.data.people.people %}
-  - {{ person.firstname }} {{ person.lastname }} {% if person.founding %} * {% endif %}
-{% endfor %}
 
 
 
