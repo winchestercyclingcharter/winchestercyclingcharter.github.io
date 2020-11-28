@@ -32,6 +32,7 @@ twitter:
 github_username:  winchestercyclingcharter
 github: [metadata]
 phase: launch # suppress features not wanted until launch
+google_analytics: G-N79TL41XX5
 
 # Build settings
 theme: minima

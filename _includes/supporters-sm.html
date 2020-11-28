@@ -7,7 +7,7 @@
             {% for org in site.data.orgs.orgs %}
                 <li>
                     <a href="{{org.website}}">
-                        {{ org.title }}{% if org.founding %}<sup>*</sup></sup>{% endif %}
+                        {{ org.title }}{% if org.founding %}<sup>*</sup>{% endif %}
                     </a>
                 </li>
             {% endfor %}
@@ -16,7 +16,7 @@
         <ul>
             {% for person in site.data.people.people %}
             <li>
-                {{ person.firstname }} {{ person.lastname }}{% if person.founding %}<sup>*</sup></sup>{% endif %}
+                {{ person.firstname }} {{ person.lastname }}{% if person.founding %}<sup>*</sup>{% endif %}
             </li>
             {% endfor %}
         </ul>
