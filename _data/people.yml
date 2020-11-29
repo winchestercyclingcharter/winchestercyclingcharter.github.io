@@ -1,5 +1,6 @@
 people:
     - {lastname: Barnard, firstname: Michael}
+    - {lastname: Hyde, firstname: David}
     - firstname: Charles 
       lastname: Bell
     - firstname: Kimberly 
