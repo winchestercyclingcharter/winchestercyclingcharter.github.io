@@ -4,6 +4,7 @@ people:
     - {lastname: Coles, firstname: Sue}
     - {lastname: Wilson, firstname: Martin}
     - {lastname: Flibble, firstname: Mrs}
+    - {lastname: Flibble-hyphen-ftang-ftang-olé-biscuit-barrel-møtörhead, firstname: mrs}
     - firstname: Charles 
       lastname: Bell
     - firstname: Kimberly 
