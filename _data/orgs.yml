@@ -1,6 +1,7 @@
 orgs:
     - title: Flibble Corporation
       website: http://www.misterflibble.com/
+      logo: flibble.png
     - logo: axe.jpg 
       title: Axe Capital
       website: https://www.axecapitalfs.co.uk/en
