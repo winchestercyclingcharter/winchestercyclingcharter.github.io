@@ -1,6 +1,7 @@
 people:
     - {lastname: Hyde, firstname: David}
     - {lastname: Street, firstname: E J}
+    - {lastname: Coles, firstname: Sue}
     - {lastname: Barnard, firstname: Michael}
     - firstname: Charles 
       lastname: Bell
