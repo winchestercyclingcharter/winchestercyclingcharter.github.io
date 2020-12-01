@@ -12,7 +12,7 @@ We collect names (personal and organisational) so that we can display a list of 
 
 For organisational supporters, we give you the opportunity to upload a logo to our website, which we will display, optionally linking to your own website. 
 
-We request your postcode to help us assess the geographical distribution of our supporters. You don't have to provide that information, and if you do, we won't publish it or share it with anyone.
+We request your postcode to help us assess the geographical distribution of our supporters. You don't have to provide that information, and if you do, we won't publish individual postcodes or share them with anyone. We will use the postcodes to summarise number of supporters by area - it will help us convince councillors of the support for cycling in their area.
 
 We collect your email address so that we can contact you once, to confirm that you have signed the Charter, in order to avoid issues of impersonation. If you explicitly opt-in to email updates, we might later send you emails to update you on progress with our campaign. We will always give you the opportunity to unsubscribe from these updates.
 

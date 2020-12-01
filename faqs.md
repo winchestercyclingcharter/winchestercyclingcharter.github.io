@@ -4,10 +4,12 @@ title: FAQs
 permalink: /faqs
 ---
 
-> Enabling cycling will help Winchester tackle its challenges of pollution, 
+### Why should Winchester enable more people to cycle?
+
+Enabling cycling will help Winchester tackle its challenges of pollution, 
 congestion and unhealthy lifestyles.
 
-> A comprehensive, convenient and connected network of cycle infrastructure 
+A comprehensive, convenient and connected network of cycle infrastructure 
 enables people to choose cycling as the safe, natural choice for a large 
 proportion of everyday journeys. This frees up road space for essential car 
 journeys.
