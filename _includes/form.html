@@ -15,8 +15,53 @@
   </p>
 
     <form id="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+
+      {% if page.thisname == "Organisation" %}
       <fieldset>
+        <legend>Your organisation</legend>
+
+        <div class="form-group required">
+          <label for="Organisation" class='control-label'>Name</label>
+          <input type="text" class="form-control" name="orgName" id="orgName1" placeholder="" required="true">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <label for="OrgWebsite" class='control-label'>Website</label>
+          <input type="url" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="https://example.com">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <label for="Postcode" class='control-label'>Postcode (of your Winchester branch if you're a national organisation)</label>
+          <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
+          <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <label for="Role">Your role in the organisation</label>
+          <input type="text" class="form-control" name="orgRole" id="orgRole1" placeholder="">
+          <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="checkbox" name="orgAuthority" id="orgAuthority1" value="yes" required>
+            <label class="form-check-label" for="inlineCheckbox1">Tick to confirm: "I am authorised to speak on behalf of this organisation."</label>
+            <div class="help-block with-errors"></div>
+          </div>
+        </div>
+
+      </fieldset>
+    {% endif %}
+
+      <fieldset>
+        {% if page.thisname == "Organisation" %}
+          <legend>Your own details</legend>
+        {% else %}
         <legend>Your details</legend>
+        {% endif %}
 
         <div class="form-group required">
           <label for="FirstName" class='control-label'>First name</label>
@@ -48,44 +93,12 @@
         <div class="form-group">
           <div class="form-check form-check-inline">
             <input class="form-check-input" type="checkbox" name="emailOptIn" id="inlineCheckbox1" value="yes">
-            <label class="form-check-label" for="inlineCheckbox1">Tick if you'd like to receive email updates from us about the charter.</label>
+            <label class="form-check-label" for="inlineCheckbox1">Tick to receive email updates from us about the charter.</label>
             <div class="help-block with-errors"></div>
           </div>
         </div>
 
       </fieldset>
-
-      {% if page.thisname == "Organisation" %}
-        <fieldset>
-          <legend>Your organisation</legend>
-
-          <div class="form-group required">
-            <label for="Organisation" class='control-label'>Name</label>
-            <input type="text" class="form-control" name="orgName" id="orgName1" placeholder="" required="true">
-            <div class="help-block with-errors"></div>
-          </div>
-
-          <div class="form-group">
-            <label for="OrgWebsite" class='control-label'>Website</label>
-            <input type="url" class="form-control" name="orgWebsite" id="OrgWebsite1" placeholder="https://example.com">
-            <div class="help-block with-errors"></div>
-          </div>
-
-          <div class="form-group">
-            <label for="Postcode" class='control-label'>Postcode</label>
-            <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
-            <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
-            <div class="help-block with-errors"></div>
-          </div>
-
-          <div class="form-group">
-            <label for="Role">Your role in the organisation</label>
-            <input type="text" class="form-control" name="orgRole" id="orgRole1" placeholder="">
-            <div class="help-block with-errors"></div>
-          </div>
-
-        </fieldset>
-      {% endif %}
 
       <div class="form-group">
         <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="verifyRecaptchaCallback"></div>
