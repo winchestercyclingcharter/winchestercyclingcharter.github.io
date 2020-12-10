@@ -31,7 +31,11 @@ twitter:
   card: summary
 github_username:  winchestercyclingcharter
 github: [metadata]
-phase: launch # suppress features not wanted until launch
+phase: prelaunch # suppress features not wanted until launch
+exclude: [ind-page.md, org-page.md]
+kramdown:
+  auto_ids: true
+
 google_analytics: G-N79TL41XX5
 
 # Build settings

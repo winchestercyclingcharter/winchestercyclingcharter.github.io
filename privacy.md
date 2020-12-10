@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy policy
-permalink: /faqs/privacy-policy
+permalink: /info/privacy-policy
 ---
 
 This is the privacy policy of the Winchester Cycling Charter, a non-incorporated community organisation, formed with the purpose of building consensus around initiatives that make Winchester a more cycling-friendly city. You can contact us via our email address [info@winchestercyclingcharter.org.uk](mailto:info@winchestercyclingcharter.org.uk)

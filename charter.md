@@ -6,7 +6,10 @@ redirect_from: "/"
 ---
 
 
+Getting more people to cycle can make a significant contribution to tackling many of the problems facing our city – congestion, air pollution, obesity, mental health issues, poor quality of life – whilst also providing an economic stimulus that revitalises Winchester and helps it towards a more vibrant future.
+
 {% unless site.phase == "prelaunch" %}
+To show your support for the Charter, please click one of the links below.
 ### I would like to sign the Winchester Cycling Charter as an:
 
 <ul class="OptionList">

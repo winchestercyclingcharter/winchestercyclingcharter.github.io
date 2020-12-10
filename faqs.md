@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-permalink: /faqs
+permalink: /info/faqs
 ---
 
 ### Why should Winchester enable more people to cycle?
@@ -76,5 +76,4 @@ A comprehensive, convenient and connected network of cycle infrastructure enable
 
 ### Supporting Documents
 
-- [Briefing Document for Organisations]()
-- [Appendix: Charter Supporting Evidence](/assets/docs/Winchester%20Cycling%20Charter%20Supporting%20Evidence.pdf)
+- [Appendix: Charter Supporting Evidence](/info/evidence)
