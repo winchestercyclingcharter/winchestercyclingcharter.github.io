@@ -43,7 +43,7 @@ Lose yourself in the [references](#references) if you have a few hours spare!
 
 The European Cyclists' Federation published [a report](https://ecf.com/sites/ecf.com/files/TheBenefitsOfCycling2018.pdf)[^4] in 2018 that estimated the global annual benefit of current levels of cycling to be worth 150bn euros, summarised in the graphic below.
 
-![Global annual benefit of cycling.](/assets/images/TheBenefitsOfCycling2018.png)
+<img src = "/assets/images/TheBenefitsOfCycling2018.png" class = "img-fluid" alt = "Global annual benefit of cycling">
 
 A [briefing document](https://www.cyclinguk.org/sites/default/files/document/migrated/info/economy1fbrf.pdf)[^3] from Cycling UK additionally mentions the potential benefits that cycling brings from fewer casualties on the road and less damage to buildings, ecosystems and agriculture from pollution.
 
