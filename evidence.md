@@ -171,7 +171,7 @@ Electric bikes extend the commuting range, make cycling accessible for the elder
 
 Cargo bikes and freight bikes are important as they can extend both the reach and the role of cycling. 
 
-<img src = "/assets/images/cargo.jpg" class = "img-fluid" alt = "Cargo and freight bikes">
+<img src = "/assets/images/cargo.jpg" class = "img-fluid" alt = "Cargo and freight bikes">\\
 *(Photos by SnapItaly, Albert Heijn and AutoKiosk)*
 
 As well as electric bikes there is a growing range of [types of cycles](https://www.cyclinguk.org/article/cycling-guide/guide-to-adapted-cycles) and [adaptations](https://cyclingforall.org/cycles/finding-the-right-cycle/cycle-adaptations/) to them[^38] [^39], which make cycling much more accessible to those with physical challenges.
@@ -180,7 +180,7 @@ As well as electric bikes there is a growing range of [types of cycles](https://
 
 Cycle lanes can also open up a new network to the elderly and disabled who can’t cycle but use wheelchairs and mobility scooters.
 
-<img src = "/assets/images/adapted.jpg" class = "img-fluid" alt = "Accessible cycling.">
+<img src = "/assets/images/adapted.jpg" class = "img-fluid" alt = "Accessible cycling.">\\
 *(Photo by photojb/Sustrans)*
 
 
@@ -192,8 +192,7 @@ The map shows a 2-mile radius circle from the centre of the city showing how fea
 
 The Cycle Winchester Mass Ride is open to all ages and abilities and is timed to take a maximum of 30 minutes into the city from any of the marked start points.
 
-<img src = "/assets/images/winchester.png" class = "img-fluid" alt = "Cycle Winchester Mass Ride.">
-
+<img src = "/assets/images/winchester.png" class = "img-fluid" alt = "Cycle Winchester Mass Ride.">\\
 [*© OpenStreetMap contributors*](https://www.openstreetmap.org/copyright)
 
 ## Example cities

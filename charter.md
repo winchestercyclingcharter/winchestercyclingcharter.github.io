@@ -19,7 +19,7 @@ To show your support for the Charter, please click one of the links below.
 
 {% else %}
 
-### Winchester Cycling Charter will launch early in 2021.
+### Winchester Cycling Charter will launch early in 2021
 
 We are currently offering local organisations the opportunity to 
 become foundation signatories of the Charter. Foundation signatories will have 
