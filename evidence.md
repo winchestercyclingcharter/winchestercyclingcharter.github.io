@@ -57,7 +57,8 @@ A [2017 press release](https://inrix.com/press-releases/scorecard-2017-uk/)[^8] 
 
 The iconic image[^9], below, commissioned for a poster by the planning department of the city of Münster, Germany is a simple and compelling argument for how cycling can help overcome the problems of congested cities. The image is a triptych consisting of three images taken from the same angle, showing the space occupied by bicycles, cars and buses when each transported 72 people.
 
-<img src = "/assets/images/muenster.jpeg" class = "img-fluid" alt = "Münster's iconic 'waste of space' photo">
+<img src = "/assets/images/muenster.jpeg" class = "img-fluid" alt = "Münster's iconic 'waste of space' photo">\\
+*(Photo commissioned by the city of Münster)*
 
 A [DfT report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877511/cycling-and-walking-business-case-summary.pdf)[^10] reviewed the Sustainable Travel Towns programme which ran from 2004 to 2009, with £10 million funding for the implementation of large-scale Smarter Choice Programmes in three towns: Darlington, Peterborough and Worcester. All three programmes aimed to encourage more use of non-car options – in particular, bus use, cycling and walking – and less single-occupancy car use. Based on the decongestion benefits alone, the programme's benefit cost ratio (BCR) has been estimated as 4.5:1.
 
