@@ -55,8 +55,9 @@ Eight UK cities [Birmingham, Cambridge, Manchester, Newcastle, Norwich, Oxford, 
 
 A [2017 press release](https://inrix.com/press-releases/scorecard-2017-uk/)[^8] by INRIX related to their Global Traffic Scorecard showed the UK ranked as the 10th most congested country in the world. The direct and indirect costs of congestion to all UK motorists amounted to over £37.7 billion. Their chief economist was led to comment “the cost of congestion is astonishing … with more cars on the road than ever before, we need to consider innovative new approaches to solving the issue”.
 
-The [iconic image](https://declickenclick.com/2012/10/09/espacio-desperdiciado-una-imagen-iconica/)[^9], below, commissioned for a poster by the planning department of the city of Münster, Germany is a simple and compelling argument for how cycling can help overcome the problems of congested cities. The image is a triptych consisting of three images taken from the same angle, showing the space occupied by bicycles, cars and buses when each transported 72 people.
+The iconic image[^9], below, commissioned for a poster by the planning department of the city of Münster, Germany is a simple and compelling argument for how cycling can help overcome the problems of congested cities. The image is a triptych consisting of three images taken from the same angle, showing the space occupied by bicycles, cars and buses when each transported 72 people.
 
+<img src = "/assets/images/muenster.jpeg" class = "img-fluid" alt = "Münster's iconic 'waste of space' photo">
 
 A [DfT report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877511/cycling-and-walking-business-case-summary.pdf)[^10] reviewed the Sustainable Travel Towns programme which ran from 2004 to 2009, with £10 million funding for the implementation of large-scale Smarter Choice Programmes in three towns: Darlington, Peterborough and Worcester. All three programmes aimed to encourage more use of non-car options – in particular, bus use, cycling and walking – and less single-occupancy car use. Based on the decongestion benefits alone, the programme's benefit cost ratio (BCR) has been estimated as 4.5:1.
 
@@ -170,16 +171,17 @@ Electric bikes extend the commuting range, make cycling accessible for the elder
 
 Cargo bikes and freight bikes are important as they can extend both the reach and the role of cycling. 
 
+<img src = "/assets/images/cargo.jpg" class = "img-fluid" alt = "Cargo and freight bikes">
+*(Photos by SnapItaly, Albert Heijn and AutoKiosk)*
+
 As well as electric bikes there is a growing range of [types of cycles](https://www.cyclinguk.org/article/cycling-guide/guide-to-adapted-cycles) and [adaptations](https://cyclingforall.org/cycles/finding-the-right-cycle/cycle-adaptations/) to them[^38] [^39], which make cycling much more accessible to those with physical challenges.
-
-
-(Photos by SnapItaly, Albert Heijn and AutoKiosk)
 
 *Wheels for Wellbeing* have published [*A Guide to Inclusive Cycling*](https://wheelsforwellbeing.org.uk/wp-content/uploads/2019/06/FINAL.pdf)[^40]. Their aim as a charity is to increase awareness of the fact that disabled people can and do cycle. 
 
 Cycle lanes can also open up a new network to the elderly and disabled who can’t cycle but use wheelchairs and mobility scooters.
 
-
+<img src = "/assets/images/adapted.jpg" class = "img-fluid" alt = "Accessible cycling.">
+*(Photo by photojb/Sustrans)*
 
 
 [Research](http://content.tfl.gov.uk/walking-cycling-economic-benefits-summary-pack.pdf)[^2] by Transport for London found that 87% of their customers said they could cycle including 3 out of 4 people aged 65+ and 76% of disabled people.
@@ -189,7 +191,10 @@ According to the [National Travel Survey](https://www.gov.uk/government/collect
 The map shows a 2-mile radius circle from the centre of the city showing how feasible cycling is for the majority of residents.
 
 The Cycle Winchester Mass Ride is open to all ages and abilities and is timed to take a maximum of 30 minutes into the city from any of the marked start points.
- https://www.openstreetmap.org
+
+<img src = "/assets/images/winchester.png" class = "img-fluid" alt = "Cycle Winchester Mass Ride.">
+
+[*© OpenStreetMap contributors*](https://www.openstreetmap.org/copyright)
 
 ## Example cities
 
