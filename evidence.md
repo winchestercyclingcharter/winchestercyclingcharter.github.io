@@ -97,7 +97,7 @@ A [paper](https://journals.sagepub.com/doi/pdf/10.1177/0013916514529969)[^20] in
 
 ### Getting more people cycling leads to business and economic benefits and creates attractive, welcoming cities.
 
-A [2016 paper](https://www.sciencedirect.com/science/article/pii/S2352146516302538)[^21] in Transportation Research Procedia titled Economic Benefits of Increased Cycling concludes that “cycling is not only improving the liveability of cities, public health, air quality, or the CO2 balance it also creates hard economic value and jobs”
+A [2016 paper](https://www.sciencedirect.com/science/article/pii/S2352146516302538)[^21] in Transportation Research Procedia titled Economic Benefits of Increased Cycling concludes that “cycling is not only improving the liveability of cities, public health, air quality, or the CO<sub>2</sub> balance *it also creates hard economic value and jobs*”
 
 A [Bloomberg CityLab report](https://www.bloomberg.com/news/articles/2015-03-13/every-study-ever-conducted-on-the-impact-converting-street-parking-into-bike-lanes-has-on-businesses)[^22] reviewed the evidence for fifteen major city studies (across USA, Canada, UK, Ireland, Australia and New Zealand) where car parking spaces had been replaced by bike lanes. Cyclists were found to be ‘competitive consumers’ who more often than not outspent drivers and were also more frequent visitors. Traders consistently over-estimated the proportion of customers who arrived by car and the proportion of takings attributable to car drivers. For example in Bristol traders thought their customers lived farther away than they really did and assumed that 41% drove to their shops rather than the actual figure of 22%. And in Dublin traders on the two main shopping streets considerably over-estimated spending by shoppers travelling by car.
 
@@ -115,7 +115,7 @@ The briefing document[^3] [*Cycling and the Economy*](https://www.cyclinguk.org/
 
 [*The Value of the Cycling Sector to the British Economy: A Scoping Study*](http://s27245.pcdn.co/wp-content/uploads/2018/06/The-Value-of-the-Cycling-Sector-to-the-British-Economy-FINAL2.pdf)[^25] carried out for the Bicycle Association in 2018 calculated that cycling generates around 64,000 FTE jobs in the UK including jobs in tourism, sales and repair, cycle delivery, manufacturing, and cycle infrastructure. The cycling industry is estimated to be worth £5.4 billion a year to the economy, with the larger share of this, £4.1billion, coming from wider impacts, particularly reductions in loss of life, and reduced pollution and congestion. The study notes that this is a larger contribution than made by the UK steel industry.
 
-An [earlier report](http://eprints.lse.ac.uk/38063/1/BritishCyclingEconomy.pdf)[^26] along the same lines, The British Cycling Economy, by the London School of Economics found that even in 2011 over £500m generated in wages and £100m in taxes from 23,000 employed directly in bicycle sales, distribution and the maintenance of cycling infrastructure.
+An [earlier report](http://eprints.lse.ac.uk/38063/1/BritishCyclingEconomy.pdf)[^26] along the same lines, *The British Cycling Economy*, by the London School of Economics found that even in 2011 over £500m generated in wages and £100m in taxes from 23,000 employed directly in bicycle sales, distribution and the maintenance of cycling infrastructure.
 
 Close to home and much more recently the [2019 Bike Life report](https://ec.europa.eu/transport/sites/transport/files/cycling-guidance/smart_choices_for_the_city_cycling_in_the_city_0.pdf)[^5] by Sustrans for Southampton City Council calculates that current cycling activity already creates £50.1 million in economic benefit for individuals and the city.
 
@@ -125,7 +125,7 @@ Winchester has attractions for visiting cyclists. It is located at the start of 
 
 [*High Streets for All*](https://www.london.gov.uk/sites/default/files/high_streets_for_all_report_web_final.pdf) a 2017 report[^27] authored by LSE Cities for the Greater London Authority noted “for those living locally, successful high streets minimise the need for multiple car journeys, and encourage walking, cycling and the use of public transport.”
 
-A [report](http://content.tfl.gov.uk/street-appeal.pdf)[^28] by UCL commissioned by Transport for London, called Street Appeal noted that “those cities that have failed to integrate the multi-functionality of streets tend to have lesser infrastructure development, lower productivity, a poorer quality of life … “
+A [report](http://content.tfl.gov.uk/street-appeal.pdf)[^28] by UCL commissioned by Transport for London, called *Street Appeal* noted that “those cities that have failed to integrate the multi-functionality of streets tend to have lesser infrastructure development, lower productivity, a poorer quality of life … “
 
 A [report](http://content.tfl.gov.uk/street-appeal.pdf)[^29] by New York City Department of Transportation used retail sales to provide the most direct and reliable indicator of the health of local businesses.  Applying this methodology to a range of projects including pedestrian plazas, bike paths, intersection redesigns and bus rapid transit provided convincing evidence that “improved accessibility and a more welcoming street environment created by these projects generate increases in retail sales”.
 
@@ -226,29 +226,33 @@ The same report assessed Cycling Ambition Grants which made in 2013-2015 to Grea
 Our city and county authorities have taken on board the messages of Strands [1](#evidence-for-strand-1) and [2](#evidence-for-strand-2) as evidenced in the four policy documents below. 
 
 City of Winchester Movement Strategy (HCC/WCC)
-: There is “a strong mandate to address air quality issues, helping to make Winchester a healthier, more pleasant and less polluted environment; to develop new options that prioritise safe travel for both pedestrians and cyclists; to facilitate opportunities for people to leave their cars outside of the city centre and travel in by other means; and to give people more choice of transport modes.”
+: There is “*a strong mandate to address air quality issues, helping to make Winchester a healthier, more pleasant and less polluted environment; to develop new options that prioritise safe travel for both pedestrians and cyclists*; to facilitate opportunities for people to leave their cars outside of the city centre and travel in by other means; and to give people more choice of transport modes.”
 
 Carbon Neutrality Plan (WCC)
-: “Transport accounts for 36% of the council’s carbon emission and residents saw this as the top priority for the council to address and as action for individuals. Transport accounts for nearly half of the district carbon emissions and tackling this is the council's first priority.
-Proposed priority actions include taking forward key studies in the City of Winchester Movement Strategy which have a focus on achieving carbon emission reduction eg within the Walking & Cycling Strategy.”
+: “Transport accounts for 36% of the council’s carbon emission and residents saw this as the top priority for the council to address and as action for individuals. Transport accounts for nearly half of the district carbon emissions and tackling this is the council's first priority.\\
+*Proposed priority actions include taking forward key studies in the City of Winchester Movement Strategy which have a focus on achieving carbon emission reduction eg within the Walking & Cycling Strategy.*”
 
 Local Transport Plan LTP (HCC)
-: Encouraging cycling is a key theme within the LTP (2011- 2031) where Policy 12 seeks investment “in sustainable transport measures, including walking and cycling infrastructure, principally in urban areas, to provide a healthy alternative to the car for local short journeys to work, local services or schools; and work with health authorities to ensure that transport policy supports local ambitions for health and well-being”. 
-Cycling supports many policy agendas including in public health, economic development, tourism and the environment. 
-Cycling has the potential to support a wide range of the priorities set within the County Council’s Corporate Strategy.
+: Encouraging cycling is a key theme within the LTP (2011- 2031) where *Policy 12 seeks investment “in sustainable transport measures, including walking and cycling infrastructure*, principally in urban areas, to provide a healthy alternative to the car for local short journeys to work, local services or schools; and work with health authorities to ensure that *transport policy supports local ambitions for health and well-being*”. \\
+*Cycling supports many policy agendas including in public health, economic development, tourism and the environment*. \\
+*Cycling has the potential to support a wide range of the priorities set within the County Council’s Corporate Strategy*.
 
 Climate Change Strategy (HCC)
-: To enable, support and deliver a reduction in transport-related carbon emissions to net zero by 2050 and a resilient transport network. The priority for Transport will be to work with partners to develop a more holistic approach for communities and places that ultimately reduces the need to travel, increases the uptake of walking, cycling and public transport …
+: *To enable, support and deliver a reduction in transport-related carbon emissions to net zero by 2050* and a resilient transport network. The priority for Transport will be to work with partners to develop a more holistic approach for communities and places that ultimately reduces the need to travel, *increases the uptake of walking, cycling and public transport* …
 
 
 The Winchester Cycling Charter concentrates on [Strand 3](#evidence-for-strand-3). 
 
-*It is designed to demonstrate that – in line with the general UK population – there is strong support locally in Winchester for making the city a safer, easier and more pleasant place to get around by cycling.*
+It is designed to demonstrate that – in line with the general UK population – there is strong support locally in Winchester for making the city a safer, easier and more pleasant place to get around by cycling.
 
 
 ## Conclusion
 
-A pro-cycling consensus can create momentum for change. It gives our authorities both the confidence and the imperative to follow through on their stated aim – to make Winchester a more cycle-friendly city.
+There is strong evidence to show that getting more people to cycle in Winchester will be beneficial for our city by overcoming the problems already stated and by providing an economic stimulus and cultural shift that helps create a more vibrant and sustainable future.
+
+Cycling is accessible to virtually anyone and the biggest barrier to getting on a bike is usually a lack of safe and easy to use cycle infrastructure. 
+
+Most people are in favour of making cycling easier and safer. Demonstrating there is that pro-cycling consensus in Winchester can create momentum for the necessary change. It gives our authorities both the confidence and the imperative to follow through on their stated aim – to make Winchester a more cycle-friendly city.
 
 ## References
 
@@ -361,7 +365,7 @@ A pro-cycling consensus can create momentum for change. It gives our authorities
 
 [^29]:	THE ECONOMIC BENEFITS OF SUSTAINABLE STREETS\\
 	Report by New York City Department of Transportation\\
-	www.nyc.gov/html/dot/downloads/pdf/dot-economic-benefits-of-sustainable-streets.pdf
+	[www.nyc.gov/html/dot/downloads/pdf/dot-economic-benefits-of-sustainable-streets.pdf](http://www.nyc.gov/html/dot/downloads/pdf/dot-economic-benefits-of-sustainable-streets.pdf)
 
 [^30]:	THE ASSOCIATION BETWEEN COMMUTER CYCLING AND SICKNESS ABSENCE.\\
 	Preventive Medicine, 2010.\\

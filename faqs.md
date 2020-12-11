@@ -20,8 +20,6 @@ The Winchester Cycling Charter is a simple statement of support for ‘cycling�
 
 It outlines the benefits cycling can bring to our city and is something that businesses, schools, the health sector, shops and individuals can readily support.
 
-### What are we trying to achieve with the Charter?
-
 The Charter enables organisations across the city to express their support for cycling, showing they understand that cycling is good for business, good for our health, good for the economy and builds a better city for us to live in.
 
 Charter signatories demonstrate to Winchester and Hampshire’s leaders that there is wide support for cycling and a growing consensus for investment in better cycling infrastructure.
