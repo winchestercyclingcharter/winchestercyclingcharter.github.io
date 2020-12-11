@@ -252,8 +252,6 @@ A pro-cycling consensus can create momentum for change. It gives our authorities
 
 ## References
 
-REFERENCES
-
 [^1]:	PLACE VALUE WIKI\\
 	[https://sites.google.com/view/place-value-wiki/the-evidence](https://sites.google.com/view/place-value-wiki/the-evidence)
 	
