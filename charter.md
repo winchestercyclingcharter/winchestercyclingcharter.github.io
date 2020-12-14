@@ -3,6 +3,7 @@ layout: default
 title: Sign the Charter
 permalink: /charter
 redirect_from: "/"
+image: /assets/images/winchestercyclingcharter-logo.png
 ---
 
 
