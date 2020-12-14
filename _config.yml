@@ -32,7 +32,7 @@ twitter:
 github_username:  winchestercyclingcharter
 github: [metadata]
 phase: prelaunch # suppress features not wanted until launch
-exclude: [ind-page.md, org-page.md]
+exclude: [ind-page.md, org-page.md, supporters.md, thanks.md]
 kramdown:
   auto_ids: true
 
@@ -43,6 +43,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
 sass:
   sass_dir: assets/css
   style: compressed
