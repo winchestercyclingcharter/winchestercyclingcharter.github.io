@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact
+image: /assets/images/logo.png
 ---
 
 The Winchester Cycling Charter is a simple statement of support for *cycling* 

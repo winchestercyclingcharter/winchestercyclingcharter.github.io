@@ -2,6 +2,7 @@
 layout: default
 title: Supporting evidence
 permalink: /info/evidence
+image: /assets/images/logo.png
 ---
 
 

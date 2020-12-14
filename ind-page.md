@@ -5,6 +5,7 @@ permalink: /individuals/form
 thisname: Individual
 theothername: Organisation
 theotherpage: "/organisations/form"
+image: /assets/images/logo.png
 ---
 
 

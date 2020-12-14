@@ -2,6 +2,7 @@
 layout: default
 title: FAQs
 permalink: /info/faqs
+image: /assets/images/logo.png
 ---
 
 ### Why should Winchester enable more people to cycle?
