@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   vibrant future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winchestercyclingcharter.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /assets/images/winchestercyclingcharter-logo.png
 twitter:
   username: cyclewinchester
   card: summary
