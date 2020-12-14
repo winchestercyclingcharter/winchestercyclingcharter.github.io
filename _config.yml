@@ -20,14 +20,17 @@
 
 title: Winchester Cycling Charter
 email: contact@winchestercyclingcharter.org.uk
+tagline: Revitalise Winchester by getting more people to cycle.
 description: >- # this means to ignore newlines until "baseurl:"
-  We want our historic city and surrounding countryside to be a vibrant, 
-  sustainable and healthy place in which to live, work, do business, study 
-  and thrive.
+  Getting more people to cycle can make a significant contribution to tackling 
+  many of the problems facing our city – congestion, air pollution, obesity, 
+  mental health issues, poor quality of life – whilst also providing an 
+  economic stimulus that revitalises Winchester and helps it towards a more 
+  vibrant future.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://winchestercyclingcharter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://winchestercyclingcharter.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
-  username: winchestercyclingcharter
+  username: cyclewinchester
   card: summary
 github_username:  winchestercyclingcharter
 github: [metadata]
