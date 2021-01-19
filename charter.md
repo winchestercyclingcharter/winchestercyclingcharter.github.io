@@ -23,7 +23,7 @@ To show your support for the Charter, please click one of the links below.
 ### Winchester Cycling Charter will launch early in 2021
 
 We are currently offering local organisations the opportunity to 
-become foundation signatories of the Charter. Foundation signatories will have 
+become founding signatories of the Charter. Founding signatories will have 
 their name and logo prominently displayed on our website, in recognition of 
 their leadership in making Winchester a vibrant, sustainable and healthy city.
 If this is of interest, please contact us via email at 
