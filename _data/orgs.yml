@@ -1,27 +1,25 @@
 orgs:
-    - title: Flibble Corporation
-      website: http://www.misterflibble.com/
-      logo: flibble.png
-    - logo: axe.jpg 
-      title: Axe Capital
-      website: https://www.axecapitalfs.co.uk/en
-      founding: yes
-    - logo: colossus.jpg
-      title:   Colossus
-    - logo: cross.jpg
-      title: Cross Technologies
-      website: https://marvel.fandom.com/wiki/Cross_Technological_Enterprises_(Earth-616)
-      founding: yes
-    - logo: hampton.jpg
-      title:   Hampton DeVille
-      website: https://twitter.com/hamptondeville
-      founding: yes
-    - logo: planet.jpg
-      title: Daily Planet
-      website: https://dailyplanetdc.com/
-    - logo: spider.jpg
-      title:   SPECTRE
-      website: https://www.007.com/spectre/
-    - logo: westworld.jpg
-      title: Westworld
-      website: https://www.hbo.com/westworld
+- {title: Flibble Corporation, website: 'http://www.misterflibble.com/', logo: 'flibble.png', founding: no}
+- logo: axe.jpg 
+  title: Axe Capital
+  website: https://www.axecapitalfs.co.uk/en
+  founding: yes
+- logo: colossus.jpg
+  title:   Colossus
+- logo: cross.jpg
+  title: Cross Technologies
+  website: https://marvel.fandom.com/wiki/Cross_Technological_Enterprises_(Earth-616)
+  founding: yes
+- logo: hampton.jpg
+  title:   Hampton DeVille
+  website: https://twitter.com/hamptondeville
+  founding: yes
+- logo: planet.jpg
+  title: Daily Planet
+  website: https://dailyplanetdc.com/
+- logo: spider.jpg
+  title:   SPECTRE
+  website: https://www.007.com/spectre/
+- logo: westworld.jpg
+  title: Westworld
+  website: https://www.hbo.com/westworld
