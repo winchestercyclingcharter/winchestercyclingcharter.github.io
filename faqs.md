@@ -15,6 +15,10 @@ enables people to choose cycling as the safe, natural choice for a large
 proportion of everyday journeys. This frees up road space for essential car 
 journeys.
 
+Making our city more appealing for cycling and all types of active travel 
+creates a more attractive place to live, work and visit. It can provide an 
+economic stimulus and a pathway to a more vibrant future.
+
 ### What is the Winchester Cycling Charter?
 
 The Winchester Cycling Charter is a simple statement of support for ‘cycling’ as the means of making Winchester a better city.
@@ -30,6 +34,13 @@ Charter signatories demonstrate to Winchester and Hampshire’s leaders that the
 The Charter is about the principle of enabling cycling rather than the specific road design solutions.
 
 The wording deliberately stays away from stating specific design or policy measures that will get people to cycle (e.g. segregated paths).  These design discussions will come later when engaging with Council Officers and Councillors.
+
+### Is the Charter anti-car?
+
+No. The charter isn’t anti-anything. The charter is pro-cycling. It calls for a change in spending priorities so that more money is used to support and encourage people to ride bikes.
+
+Organisations and individuals who sign the charter will represent a broad range of opinions. The charter aims to articulate the middle ground, a vision for cycling which the majority of people can get behind.
+
 
 ### Is the Charter just for businesses or can individuals support it too?
 
@@ -66,12 +77,6 @@ As organisations indicate their support for the Charter this will be shared thro
 ### Does the Winchester Cycling Charter have an underpinning of fact and research?
 
 Yes.  The supporting research and Council/government strategies are summarised in the links below.
-
-### What will this achieve?
-
-Enabling cycling will help Winchester tackle its challenges of pollution, congestion and unhealthy lifestyles.
-
-A comprehensive, convenient and connected network of cycle infrastructure enables people to choose cycling as the safe, natural choice for a large proportion of everyday journeys. This frees up road space for essential car journeys.
 
 ### Supporting Documents
 
