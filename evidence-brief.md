@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Some reasons to encourage more people to ride bikes
-permalink: /info/evidence-brief
+permalink: /info/evidence-brief/
 image: /assets/images/logo.png
 ---
 

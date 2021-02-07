@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Supporters
-permalink: /supporters
+permalink: /supporters/
 image: /assets/images/logo.png
 ---
 

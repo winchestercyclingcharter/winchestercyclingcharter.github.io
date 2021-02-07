@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thanks for your support
-permalink: /thanks
+permalink: /thanks/
 image: /assets/images/logo.png
 ---
 

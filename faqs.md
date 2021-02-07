@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-permalink: /info/faqs
+permalink: /info/faqs/
 image: /assets/images/logo.png
 ---
 

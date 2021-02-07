@@ -1,25 +1,13 @@
 orgs:
-- {title: Flibble Corporation, website: 'http://www.misterflibble.com/', logo: 'flibble.png', founding: no}
-- logo: axe.jpg 
-  title: Axe Capital
-  website: https://www.axecapitalfs.co.uk/en
-  founding: yes
-- logo: colossus.jpg
-  title:   Colossus
-- logo: cross.jpg
-  title: Cross Technologies
-  website: https://marvel.fandom.com/wiki/Cross_Technological_Enterprises_(Earth-616)
-  founding: yes
-- logo: hampton.jpg
-  title:   Hampton DeVille
-  website: https://twitter.com/hamptondeville
-  founding: yes
-- logo: planet.jpg
-  title: Daily Planet
-  website: https://dailyplanetdc.com/
-- logo: spider.jpg
-  title:   SPECTRE
-  website: https://www.007.com/spectre/
-- logo: westworld.jpg
-  title: Westworld
-  website: https://www.hbo.com/westworld
+- { title: Belgarum, website: 'https://www.belgarum.com/', logo: 'belgarum-250.png', founding: true }
+- { title: Bell Fine Art, website: 'https://bellfineart.co.uk/', logo: 'bell_fine_art-250.png', founding: true }
+- { title: Coffee Lab, website: 'https://www.coffeelabuk.com/', logo: 'coffeelab-co-250.png', founding: true }
+- { title: Computer Solutions, website: 'https://www.computersolutions.co.uk/', logo: 'computersolutions-250.png', founding: true }
+- { title: P & G Wells Bookshop, website: 'https://www.pgwells.co.uk/', logo: 'pgwells-250.png', founding: true }
+- { title: St Matthew with St Paul C of E Church, website: 'https://stmatthewstpaul.org/', logo: 'St-MP-250.png', founding: true }
+- { title: The Little Pub Group, website: 'https://the.littlepubgroup.co.uk/', logo: 'littlepubgroup-250.png', founding: true }
+- { title: Toscanaccio, website: 'https://www.toscanaccio.co.uk/', logo: 'toscanaccio-250.png', founding: true }
+- { title: Warren & Son, website: 'https://www.warrenandson.com/', logo: 'warrens-250.png', founding: true }
+- { title: Winchester Cathedral, website: 'https://www.winchester-cathedral.org.uk/', logo: 'cathedral-250.png', founding: true }
+- { title: Winchester City Primary Care Network, website: 'https://www.winchestercitypcn.co.uk/', logo: 'win_city_pcn_logo-250.png', founding: true }
+- { title: Winchester CTC, website: 'https://www.winchesterctc.org.uk/', logo: 'winctc-250.png', founding: true }

@@ -1,16 +1,8 @@
 people:
-    - {lastname: Hyde, firstname: David}
-    - {lastname: Street, firstname: E J}
-    - {lastname: Coles, firstname: Sue}
-    - {lastname: Wilson, firstname: Martin}
-    - {lastname: Flibble, firstname: Mrs}
-    - {lastname: Flibble-hyphen-ftang-ftang-olé-biscuit-barrel-møtörhead, firstname: mrs}
     - firstname: Charles 
       lastname: Bell
     - firstname: Kimberly 
       lastname: Ives
-    - firstname: Eddie 
-      lastname: MacKinnon Verylongname
     - firstname: Chris 
       lastname: Packer
     - firstname: Paul 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy policy
-permalink: /info/privacy-policy
+permalink: /info/privacy-policy/
 image: /assets/images/logo.png
 ---
 

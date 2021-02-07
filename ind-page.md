@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Individuals
-permalink: /individuals/form
+permalink: /individuals/form/
 thisname: Individual
 theothername: Organisation
 theotherpage: "/organisations/form"
