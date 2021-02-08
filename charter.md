@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Sign the Charter
-permalink: /charter/
-redirect_from: "/"
+permalink: /
 image: /assets/images/logo.png
 ---
 
