@@ -1,0 +1,20 @@
+---
+layout: default
+title: Thanks for your support
+permalink: /organisations/thanks/
+image: /assets/images/logo.png
+sharetext: We signed the Winchester Cycling Charter.
+---
+
+### What happens next?
+
+You will shortly receive an email to confirm your support. After you confirm, we'll add your organisation's name, 
+and a link to your website, to our list of [supporters](/supporters).
+
+### Please help us spread the word
+
+We're delighted that you want to see a Winchester where cycling is easier, safer and more convenient. We believe the majority of people will share that view. To make the change, we’ll need to gather sufficient support, to encourage our local leaders into making the decisions that deliver this better future for everyone in Winchester. 
+
+That's why we'd love you to share your support. Please encourage friends, family, colleagues and local organisations to sign the charter. You can use the buttons below to make this easy.
+
+{% include share.html %}

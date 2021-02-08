@@ -35,7 +35,7 @@
         <div class="form-group">
           <label for="Postcode" class='control-label'>Postcode (of your Winchester branch if you're a national organisation)</label>
           <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
-          <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Z]{1,2}\d[A-Z\d]? ?\d[A-Z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
+          <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Za-z]{1,2}\d[A-Za-z\d]? ?\d[A-Za-z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
           <div class="help-block with-errors"></div>
         </div>
 
@@ -52,6 +52,8 @@
             <div class="help-block with-errors"></div>
           </div>
         </div>
+
+        <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/organisations/thanks">
 
       </fieldset>
     {% endif %}
@@ -82,6 +84,8 @@
             <input type="text" class="form-control" name="indPostcode" id="indPostcode1"  pattern="^[A-Za-z]{1,2}\d[A-Za-z\d]? ?\d[A-Za-z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
             <div class="help-block with-errors"></div>
           </div>
+
+          <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/individuals/thanks">
         {% endunless %}
 
         <div class="form-group required">
@@ -106,7 +110,7 @@
         <div class="help-block with-errors"></div>
       </div>
 
-      <input type="hidden" id="nextPage" name="nextPage" value="{{site.url}}/thanks">
+
       <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
 
     </form>
