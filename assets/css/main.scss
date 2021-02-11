@@ -13,8 +13,8 @@
 
 @font-face {
   font-family: 'franklingothic-demi';
-  src: url('/assets/fonts//franklingothic-demi-webfont.woff2') format('woff2'),
-       url('/assets/fonts//franklingothic-demi-webfont.woff') format('woff');
+  src: url('/assets/fonts/franklingothic-demi-webfont.woff2') format('woff2'),
+       url('/assets/fonts/franklingothic-demi-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -176,13 +176,16 @@ blockquote p {
   color: #ff5050;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 70%;
+  font-size: 90%;
+  text-align: center;
 }
 .orgtitle {
   display: block;
   color: $lower-heading-color;
   font-weight: 700;
-  font-size: 80%;
+  font-size: 100%;
+  text-align: center;
+  min-height: 40px;
 }
 .card-columns .card {
   border: none;
@@ -193,5 +196,51 @@ blockquote p {
 .navbar > button > span.text {
   font-size: small;
 }
-
-
+.img-thumbnail {
+  border: 0px;
+}
+.benefits-brief {
+  margin-bottom: 20px;
+}
+.logo {
+  margin-bottom: 40px;
+}
+.btntext {
+  margin-left: 5px;
+}
+.btn {
+  margin-right: 10px;
+  margin-bottom: 20px;
+  width: 160px;
+  font-size: 90%;
+}
+.btn-twitter {
+  color: #fff;
+  background-color: #1DA1F2;
+  border-color: #1DA1F2;
+  text-align: left;
+}
+.btn-facebook {
+  color: #fff;
+  background-color: #4267B2;
+  border-color: #4267B2;
+  text-align: left;
+}
+.btn-whatsapp {
+  color: #fff;
+  background-color: #25D366;
+  border-color:#25D366;
+  text-align: left;
+}
+.btn-email {
+  color: #fff;
+  background-color: gray;
+  border-color:gray;
+  text-align: left;
+}
+.social-buttons {
+  margin-top: 30px;
+}
+.form-control {
+  background-color: #f9f9f9;
+}
