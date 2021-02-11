@@ -6,6 +6,7 @@ thisname: Individual
 theothername: Organisation
 theotherpage: "/organisations/form"
 image: /assets/images/logo.png
+privacystatement: 'When you confirm your support, we will publish your name on this website. Your email address and postcode will not be displayed. We will use your email address to confirm your support. We will use your postcode to assess the geographical distribution of supporters. If you opt-in to email updates by ticking the box below, will we email you subsequent updates about the Charter. You can unsubscribe at any time.'
 ---
 
 

@@ -1,17 +1,16 @@
 <div class="support-form-outer">
   <h3>{{ page.thisname }} support form</h3>
-  <p>Please complete this form to confirm your 
+  <p>Please complete this form to indicate your 
     {% if page.thisname == "Organisation" %}
     organisation's 
     {% endif %}
     support for the Winchester Cycling Charter. 
   </p>
   <p>
-    The names of organisations and individuals who have signed the Charter will be published on this website. 
-    Your email address and postcode will not be displayed. We will use your email address to confirm your support. 
-    We will use your postcode to assess the geographical distribution of supporters.
-    Only if you opt-in to updates by ticking the box below, will we send you subsequent email updates about the Charter. 
-    You can read our full privacy policy <a href="{{ site.url }}/faqs/privacy-policy" >here</a>.
+    {{ page.privacystatement }}
+  </p>
+  <p>
+    You can read our full privacy policy <a href="{{ site.url }}/info/privacy-policy" >here</a>.
   </p>
 
     <form id="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
@@ -37,6 +36,49 @@
           <!-- excellent stack overflow answer on postcode regexp https://stackoverflow.com/a/51885364/7313630 -->
           <input type="text" class="form-control" name="orgPostcode" id="orgPostcode1"  pattern="^[A-Za-z]{1,2}\d[A-Za-z\d]? ?\d[A-Za-z]{2}$" placeholder="A11 1AA" data-pattern-error="Please enter a valid postcode.">
           <div class="help-block with-errors"></div>
+        </div>
+
+        <div class="form-group">
+          <label for="orgSector" class='control-label'>Sector</label>
+          <select name="orgSector" id="orgSector" class='form-control'>
+            <option value="Not Given" selected>-</option>
+            <optgroup label="Retail">
+              <option value="Retail-Books/Stationery">Books/Stationery</option>
+              <option value="Retail-Clothing/Textiles">Clothing/Textiles</option>
+              <option value="Retail-Food/Drug">Food/Drug</option>
+              <option value="Retail-General Merchandise">General Merchandise</option>
+              <option value="Retail-Household">Household</option>
+              <option value="Retail-Internet">Internet</option>
+              <option value="Retail-Leisure Goods">Leisure Goods</option>
+              <option value="Retail-Motoring">Motoring</option>
+              <option value="Retail-Other">Other</option>
+            </optgroup>
+            <optgroup label="Manufacturing">
+              <option value="Manufacturing-Consumer">Consumer</option>
+              <option value="Manufacturing-Industrial">Industrial</option>
+            </optgroup>
+            <option value="Agriculture">Agriculture</option>
+            <option value="Charity">Charity</option>
+            <option value="Commercial Services">Commercial Services</option>
+            <option value="Community Group">Community Group</option>
+            <option value="Construction">Construction</option>
+            <option value="Consumer Services">Consumer Services</option>
+            <option value="Education">Education</option>
+            <option value="Energy/Mining">Energy/Mining</option>
+            <option value="Faith Group">Faith Group</option>
+            <option value="Financial Services">Financial Services</option>
+            <option value="Government">Government</option>
+            <option value="Health">Health</option>
+            <option value="Hospitality/Leisure">Hospitality/Leisure</option>
+            <option value="Life Sciences">Life Sciences</option>
+            <option value="Professional Services">Professional Services</option>
+            <option value="Property">Property</option>
+            <option value="Sporting">Sporting</option>
+            <option value="Technology/Media/Telecoms">Technology/Media/Telecoms</option>
+            <option value="Transport">Transport</option>
+            <option value="Travel">Travel</option>
+            <option value="Utilities">Utilities</option>
+          </select>          
         </div>
 
         <div class="form-group">

@@ -1,11 +1,16 @@
 orgs:
+- { title: Alfred's Brewery, website: 'http://www.alfredsbrewery.co.uk/', logo: 'alfreds-250.png', founding: true }
 - { title: Belgarum, website: 'https://www.belgarum.com/', logo: 'belgarum-250.png', founding: true }
 - { title: Bell Fine Art, website: 'https://bellfineart.co.uk/', logo: 'bell_fine_art-250.png', founding: true }
+- { title: Bespoke Biking, website: 'https://www.bespokebiking.com/', logo: 'bespoke-250.png', founding: true }
+- { title: The Brooks Shopping Centre, website: 'https://brooks-shopping.co.uk/', logo: 'brooks-250.png', founding: true }
 - { title: Coffee Lab, website: 'https://www.coffeelabuk.com/', logo: 'coffeelab-co-250.png', founding: true }
 - { title: Computer Solutions, website: 'https://www.computersolutions.co.uk/', logo: 'computersolutions-250.png', founding: true }
-- { title: P & G Wells Bookshop, website: 'https://www.pgwells.co.uk/', logo: 'pgwells-250.png', founding: true }
-- { title: St Matthew with St Paul C of E Church, website: 'https://stmatthewstpaul.org/', logo: 'St-MP-250.png', founding: true }
 - { title: The Little Pub Group, website: 'https://the.littlepubgroup.co.uk/', logo: 'littlepubgroup-250.png', founding: true }
+- { title: The Natural Travel Collection, website: 'https://www.thenaturaltravelcollection.com/', logo: 'natural-travel-250.png', founding: true }
+- { title: P & G Wells Bookshop, website: 'https://www.pgwells.co.uk/', logo: 'pgwells-250.png', founding: true }
+- { title: St Bede Church of England Primary School, website: 'https://www.stbedewinchester.co.uk/', logo: 'st-bede-250.png', founding: true }
+- { title: St Matthew with St Paul C of E Church, website: 'https://stmatthewstpaul.org/', logo: 'St-MP-250.png', founding: true }
 - { title: Toscanaccio, website: 'https://www.toscanaccio.co.uk/', logo: 'toscanaccio-250.png', founding: true }
 - { title: Warren & Son, website: 'https://www.warrenandson.com/', logo: 'warrens-250.png', founding: true }
 - { title: Winchester Cathedral, website: 'https://www.winchester-cathedral.org.uk/', logo: 'cathedral-250.png', founding: true }
