@@ -6,6 +6,7 @@ orgs:
 - { title: The Brooks Shopping Centre, website: 'https://brooks-shopping.co.uk/', logo: 'brooks-250.png', founding: true }
 - { title: Coffee Lab, website: 'https://www.coffeelabuk.com/', logo: 'coffeelab-co-250.png', founding: true }
 - { title: Computer Solutions, website: 'https://www.computersolutions.co.uk/', logo: 'computersolutions-250.png', founding: true }
+- { title: Hampshire Hospitals NHS Foundation Trust, website: 'https://www.hampshirehospitals.nhs.uk/', logo: 'hhft-logo-250.png', founding: true }
 - { title: The Little Pub Group, website: 'https://the.littlepubgroup.co.uk/', logo: 'littlepubgroup-250.png', founding: true }
 - { title: The Natural Travel Collection, website: 'https://www.thenaturaltravelcollection.com/', logo: 'natural-travel-250.png', founding: true }
 - { title: P & G Wells Bookshop, website: 'https://www.pgwells.co.uk/', logo: 'pgwells-250.png', founding: true }

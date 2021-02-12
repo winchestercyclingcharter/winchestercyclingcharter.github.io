@@ -12,7 +12,7 @@ image: /assets/images/logo.png
 
 ## Individuals
 <ul class="card-columns">
-  {% for person in site.data.people.people %}
+  {% for person in site.data.people.people reversed %}
     <li class="card">{{ person.firstname }} {{ person.lastname }}</li>
   {% endfor %}
 </ul>

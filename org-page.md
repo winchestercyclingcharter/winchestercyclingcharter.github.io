@@ -26,7 +26,7 @@ privacystatement: 'When you confirm your support, we will publish the name of yo
     </div>
 
     <!-- List a subset of the existing supporters in text-only, miniature form -->
-    {% include supporters-sm.html %}
+    {% include org-supporters-sm.html %}
 
     </div>
 </div>
