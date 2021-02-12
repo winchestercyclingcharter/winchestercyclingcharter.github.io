@@ -1,0 +1,11 @@
+<!-- supporters -->
+<div class="supporters">
+    <h3>Some Individuals who have supported the Charter</h3>
+        <ul>
+            {% for person in site.data.people.people reversed limit:15 %}
+            <li>
+                {{ person.firstname }} {{ person.lastname }}{% if person.founding %}<sup>*</sup>{% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+</div>

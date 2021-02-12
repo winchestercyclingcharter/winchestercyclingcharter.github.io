@@ -1,0 +1,15 @@
+<!-- supporters -->
+<div class="supporters">
+    <h3>Some organisations who have supported the Charter</h3>
+        <p>* = founding signatories.</p>
+        <ul>
+            {% assign orgs = site.data.orgs.orgs | reverse %}
+            {% for org in orgs limit:20 %}
+                <li>
+                    <a href="{{org.website}}">
+                        {{ org.title }}{% if org.founding %}<sup>*</sup>{% endif %}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+</div>
