@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQs
+title: Frequently Asked Questions
 permalink: /info/faqs/
 image: /assets/images/logo.png
 ---
@@ -60,11 +60,8 @@ The Charter will echo many organisations’ sustainability policies and we antic
 
 ### How do organisations and individuals indicate their support for the Charter?
 
-There are two ways:
-
-1.    Online: use the links on this page to register your support for the Charter.
-
-2.   Verbally: Speak to the person who brought the Charter to your attention and indicate your support.  They will then register this onto the website.
+Register your support for the Charter by completing an online form on this site. There are separate forms for 
+[organisations](/organisations/form/) and [individuals](/indivduals/form/).
 
 ### What else can my organisation do to support the Charter
 
