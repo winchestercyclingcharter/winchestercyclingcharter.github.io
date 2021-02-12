@@ -1,10 +1,11 @@
 <!-- supporters -->
 <div class="supporters">
-    <h3>Some Individuals who have supported the Charter</h3>
+    <h3>Some individuals who have recently supported the Charter</h3>
         <ul>
-            {% for person in site.data.people.people reversed limit:15 %}
+            {% assign people = site.data.people.people | sort: "dt" %}
+            {% for person in people reversed limit:20 %}
             <li>
-                {{ person.firstname }} {{ person.lastname }}{% if person.founding %}<sup>*</sup>{% endif %}
+                {{ person.firstname }} {{ person.lastname }}
             </li>
             {% endfor %}
         </ul>

@@ -12,7 +12,8 @@ image: /assets/images/logo.png
 
 ## Individuals
 <ul class="card-columns">
-  {% for person in site.data.people.people reversed %}
+  {% assign people = site.data.people.people | sort: "dt" %}
+  {% for person in people reversed %}
     <li class="card">{{ person.firstname }} {{ person.lastname }}</li>
   {% endfor %}
 </ul>

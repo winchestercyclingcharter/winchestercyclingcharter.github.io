@@ -1,17 +1,8 @@
 people:
-    - firstname: Charles 
-      lastname: Bell
-    - firstname: Kimberly 
-      lastname: Ives
-    - firstname: Chris 
-      lastname: Packer
-    - firstname: Paul 
-      lastname: Sheppard
-    - firstname: Malcolm 
-      lastname: Spicer
-    - firstname: Joanne 
-      lastname: Stapleton
-    - firstname: Margaret 
-      lastname: Walls
-    - firstname: Garry 
-      lastname: Williams
+- { lastname: Ashe, firstname: Arthur, dt: 20210212-174551-961857 }
+- { lastname: Behan, firstname: Brendan, dt: 20210212-174616-624467 }
+- { lastname: Carter, firstname: Clarence, dt: 20210212-174638-513830 }
+- { lastname: Day Lewis, firstname: Daniel, dt: 20210212-174702-885135 }
+- { lastname: Everage, firstname: Edna, dt: 20210212-174804-824318 }
+
+
