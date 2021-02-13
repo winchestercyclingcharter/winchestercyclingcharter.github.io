@@ -7,10 +7,12 @@
         {% for org in founders %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
 
-                <a href="{{org.website}}" class="d-block mb-4 h-100">
-                    <span class="founder">{% if org.founding %}Founding signatory{% endif %}&nbsp;</span>
+                <a href="{{org.website}}" class="logo-card mb-4 h-100">
+                    <span class="founder">{% if org.founding %}Founding signatory{% endif %}</span>
                     <span class="orgtitle">{{org.title}}</span>
-                    <img class="img-fluid img-thumbnail logo" src="/assets/images/{{org.logo}}" alt="">
+                    <div class="logo-wrapper">
+                        <img class="img-fluid img-thumbnail logo" src="/assets/images/{{org.logo}}" alt="">
+                    </div>
                 </a>
             </div>
         {% endfor %}
@@ -18,9 +20,11 @@
         {% for org in nonfounders | sort: "dt"  %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
 
-                <a href="{{org.website}}" class="d-block mb-4 h-100">
+                <a href="{{org.website}}" class="logo-card mb-4 h-100">
                     <span class="orgtitle">{{org.title}}</span>
-                    <img class="img-fluid img-thumbnail logo" src="/assets/images/{{org.logo}}" alt="">
+                    <div class="logo-wrapper">
+                        <img class="img-fluid img-thumbnail logo" src="/assets/images/{{org.logo}}" alt="">
+                    </div>
                 </a>
             </div>
         {% endfor %}

@@ -244,3 +244,14 @@ blockquote p {
 .form-control {
   background-color: #f9f9f9;
 }
+
+.logo-card {
+  display: grid;
+  grid-template-rows: auto auto 1fr;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
