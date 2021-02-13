@@ -25,8 +25,7 @@ it.
 
 On receipt, we'll add your logo to our [supporters](/supporters) page. 
 
-In return, we'll send you a digital banner, which you can display on your 
-website or in your shop window.
+In return, we will send you a Charter Mark in the form of a banner image to display on your website, or an A4 PDF to print and display at your premises.
 
 ### Other ways your organisation can help
 
