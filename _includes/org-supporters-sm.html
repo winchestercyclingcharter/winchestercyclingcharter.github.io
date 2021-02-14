@@ -1,15 +1,14 @@
 <!-- supporters -->
 <div class="supporters">
     <h3>Some organisations that have recently supported the Charter</h3>
-        <p>* = founding signatories.</p>
-        <ul>
+        <ul class="supporters-sm">
             {% assign founders = site.data.orgs.orgs | where: "founding", "true" %}
             {% assign nonfounders = site.data.orgs.orgs | where: "founding", "false" | sort: "dt" | reverse %}
             {% assign orgs = nonfounders | concat: founders %}
             {% for org in orgs limit:20 %}
                 <li>
                     <a href="{{org.website}}">
-                        {{ org.title }}{% if org.founding %}<sup>*</sup>{% endif %}
+                        {{ org.title }}
                     </a>
                 </li>
             {% endfor %}

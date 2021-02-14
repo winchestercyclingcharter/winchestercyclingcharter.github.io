@@ -1,7 +1,7 @@
 <!-- supporters -->
 <div class="supporters">
     <h3>Some individuals who have recently supported the Charter</h3>
-        <ul>
+        <ul class="supporters-sm">
             {% assign people = site.data.people.people | sort: "dt" %}
             {% for person in people reversed limit:20 %}
             <li>
