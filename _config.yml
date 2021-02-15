@@ -34,7 +34,7 @@ twitter:
   card: summary
 github_username:  winchestercyclingcharter
 github: [metadata]
-phase: launch # suppress features not wanted until launch
+phase: launch 
 # exclude: [ind-page.md, org-page.md, supporters.md, thanks.md]
 kramdown:
   auto_ids: true
