@@ -2,6 +2,8 @@
 layout: default
 title: Sign the Charter
 permalink: /
+redirect_from:
+    - /charter/
 image: /assets/images/logo.png
 ---
 
