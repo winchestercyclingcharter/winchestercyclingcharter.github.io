@@ -3,6 +3,7 @@ layout: default
 title: Thanks, your support is confirmed
 permalink: /organisations/confirmed/
 image: /assets/images/logo.png
+sitemap: false
 sharetext: Please+find+attached+a+logo+for+%5bORGANISATION+NAME%5d.+%0d%0a%0d%0a%5bInstructions+for+completion%3a+Please+attach+a+file+containing+your+logo+or+paste+a+link+to+the+logo%2c+add+your+organisation+name%2c+and+hit+%27Send%27.+On+receipt+we%27ll+add+the+logo+to+our+supporters+page.%5d
 ---
 

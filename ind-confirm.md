@@ -3,6 +3,7 @@ layout: default
 title: Thanks, your support is confirmed
 permalink: /individuals/confirmed/
 image: /assets/images/logo.png
+sitemap: false
 ---
 
 ### What happens next?

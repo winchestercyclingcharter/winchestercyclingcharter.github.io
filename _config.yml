@@ -57,12 +57,9 @@ collections:
   - people
 
 defaults:
-  -
-    scope:
+  - scope:
       path:            "test-logos"
     values:
       sitemap:         false
-    scope:
-      path:            "*/confirmed/"
-    values:
-      sitemap:         false
+
+
