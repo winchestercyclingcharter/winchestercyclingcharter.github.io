@@ -22,10 +22,10 @@ title: Winchester Cycling Charter
 email: info@winchestercyclingcharter.org.uk
 tagline: Revitalise Winchester by getting more people to cycle.
 description: >- # this means to ignore newlines until "baseurl:"
-  We, the people, businesses, schools, colleges, organisations and institutions 
-  of Winchester want our historic city and surrounding countryside to be 
-  vibrant, sustainable and healthy places in which to live, work, do business, 
-  study and thrive.
+  We, the people, businesses, organisations, institutions and educational 
+  establishments of Winchester want our historic city and surrounding 
+  countryside to be vibrant, sustainable and healthy places in which to live, 
+  work, do business, study and thrive.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winchestercyclingcharter.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logo.png

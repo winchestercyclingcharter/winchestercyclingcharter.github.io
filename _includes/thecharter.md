@@ -1,8 +1,8 @@
 ## The Charter
 
-We, the people, businesses, schools, colleges, organisations and
-institutions of Winchester want our historic city and surrounding
-countryside to be vibrant, sustainable and healthy places in which to live,
+We, the people, businesses, organisations, institutions and educational 
+establishments of Winchester want our historic city and surrounding 
+countryside to be vibrant, sustainable and healthy places in which to live, 
 work, do business, study and thrive.
 
 #### We want to see a Winchester where...
