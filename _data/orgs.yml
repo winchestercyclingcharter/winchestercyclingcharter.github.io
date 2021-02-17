@@ -14,7 +14,7 @@ orgs:
 - { title: St Bede Church of England Primary School, website: 'https://www.stbedewinchester.co.uk/', logo: 'st-bede-250.png', founding: true, dt: 20210210-181055-228434 }
 - { title: St Matthew with St Paul C of E Church, website: 'https://stmatthewstpaul.org/', logo: 'St-MP-250.png', founding: true, dt: 20210206-185003-013709 }
 - { title: Toscanaccio, website: 'https://www.toscanaccio.co.uk/', logo: 'toscanaccio-250.png', founding: true, dt: 20210206-181826-288803 }
-# - { title: University of Winchester, website: 'https://www.winchester.ac.uk/', logo: 'UoWinchester-250.png', founding: true, dt: 20210206-182324-496356 }
+- { title: University of Winchester, website: 'https://www.winchester.ac.uk/', logo: 'UoWinchester-250.png', founding: true, dt: 20210206-182324-496356 }
 - { title: Warren & Son, website: 'https://www.warrenandson.com/', logo: 'warrens-250.png', founding: true, dt: 20210206-184721-209907 }
 - { title: Winchester Cathedral, website: 'https://www.winchester-cathedral.org.uk/', logo: 'cathedral-250.png', founding: true, dt: 20210206-182324-496356 }
 # - { title: Winchester City Council, website: 'https://www.winchester.gov.uk/', logo: 'WCC-Logo-250.png', founding: true, dt: 20210206-182216-079754 }
