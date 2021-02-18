@@ -20,3 +20,4 @@ orgs:
 # - { title: Winchester City Council, website: 'https://www.winchester.gov.uk/', logo: 'WCC-Logo-250.png', founding: true, dt: 20210206-182216-079754 }
 - { title: Winchester City Primary Care Network, website: 'https://www.winchestercitypcn.co.uk/', logo: 'win_city_pcn_logo-250.png', founding: true, dt: 20210206-182439-920013 }
 - { title: Winchester CTC, part of Cycling UK, website: 'https://www.winchesterctc.org.uk/', logo: 'winctc-250.png', founding: true, dt: 20210206-183936-579245 }
+- { title: Cycle Alton, website: 'https://altonclimatenetwork.org.uk', logo: '#', founding: false, dt: 20210218-083210-589406 }
