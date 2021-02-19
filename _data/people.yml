@@ -28,16 +28,14 @@ people:
 - { lastname: Cannon, firstname: Richard, dt: 20210218-213917-168192 }
 - { lastname: Sullivan, firstname: Antonia, dt: 20210218-235933-761634 }
 - { lastname: Spencer, firstname: John, dt: 20210218-200243-172768 }
-
 - { lastname: Harrison, firstname: Becky, dt: 20210219-084908-467861 }
 - { lastname: Hicks, firstname: Jon, dt: 20210219-092046-738325 }
-
 - { lastname: Dutter, firstname: Lydia , dt: 20210219-092701-870310 }
-
 - { lastname: Howard, firstname: Paul, dt: 20210219-092938-552410 }
-
 - { lastname: Foster, firstname: Jo, dt: 20210219-094211-767882 }
-
 - { lastname: Criswick, firstname: Kate, dt: 20210219-092834-988397 }
-
 - { lastname: Mcloughlin, firstname: Lucy, dt: 20210219-094625-866678 }
+- { lastname: Leahy, firstname: Sue, dt: 20210219-090957-074184 }
+- { lastname: Kellett, firstname: Ruth, dt: 20210219-095813-364229 }
+- { lastname: Reynolds , firstname: Sandra, dt: 20210219-100553-839639 }
+- { lastname: Prentice-Jones, firstname: Nikki, dt: 20210219-101004-805530 }
