@@ -22,4 +22,6 @@ orgs:
 - { title: Winchester CTC, part of Cycling UK, website: 'https://www.winchesterctc.org.uk/', logo: 'winctc-250.png', founding: true, dt: 20210206-183936-579245 }
 - { title: Cycle Alton, website: 'https://altonclimatenetwork.org.uk', logo: 'cycle-alton-250.png', founding: false, dt: 20210218-083210-589406 }
 - { title: Extinction Rebellion Winchester, website: 'https://xrwinchester.org.uk/', logo: 'xr-250.png', founding: false, dt: 20210218-123743-897944 }
- 
+- { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
+
+- { title: Balduina Ltd. , website: 'www.balduina.co.uk', logo: '#', founding: false, dt: 20210218-191233-195718 }
