@@ -8,7 +8,9 @@ sharetext: We signed the Winchester Cycling Charter.
 
 ### What happens next?
 
-You will shortly receive an email to confirm your support. After you confirm, we'll add your organisation's name, 
+You will shortly receive an email asking to confirm your support by clicking a link. Please **check your spam or junk folder** if you don't see an email.
+
+After you click to confirm, we'll add your organisation's name, 
 and a link to your website, to our list of [supporters](/supporters).
 
 ### Please help us spread the word
