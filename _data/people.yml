@@ -30,3 +30,14 @@ people:
 - { lastname: Spencer, firstname: John, dt: 20210218-200243-172768 }
 
 - { lastname: Harrison, firstname: Becky, dt: 20210219-084908-467861 }
+- { lastname: Hicks, firstname: Jon, dt: 20210219-092046-738325 }
+
+- { lastname: Dutter, firstname: Lydia , dt: 20210219-092701-870310 }
+
+- { lastname: Howard, firstname: Paul, dt: 20210219-092938-552410 }
+
+- { lastname: Foster, firstname: Jo, dt: 20210219-094211-767882 }
+
+- { lastname: Criswick, firstname: Kate, dt: 20210219-092834-988397 }
+
+- { lastname: Mcloughlin, firstname: Lucy, dt: 20210219-094625-866678 }
