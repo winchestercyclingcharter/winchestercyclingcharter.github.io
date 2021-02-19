@@ -40,3 +40,12 @@ people:
 - { lastname: Reynolds , firstname: Sandra, dt: 20210219-100553-839639 }
 - { lastname: Prentice-Jones, firstname: Nikki, dt: 20210219-101004-805530 }
 - { lastname: Jordan, firstname: Peter, dt: 20210219-101407-296208 }
+- { lastname: Key, firstname: Andy, dt: 20210219-103044-768935 }
+- { lastname: Buckingham, firstname: Simon, dt: 20210219-100459-639332 }
+- { lastname: Chambers, firstname: Allister, dt: 20210218-133432-720653 }
+- { lastname: Benson, firstname: Jim, dt: 20210219-103728-971274 }
+- { lastname: Dornan, firstname: Ben, dt: 20210219-112304-585219 }
+- { lastname: Oxley, firstname: Imogen, dt: 20210218-184225-284366 }
+- { lastname: Stroude, firstname: Kerin, dt: 20210219-083531-964758 }
+- { lastname: Snook, firstname: Louise, dt: 20210219-102846-856598 }
+- { lastname: Rowland , firstname: Anna , dt: 20210219-100214-365347 }
