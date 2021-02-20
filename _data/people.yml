@@ -72,3 +72,5 @@ people:
 - { lastname: Arthur, firstname: Anne, dt: 20210220-080049-470265 }
 - { lastname: Wirenski, firstname: Patryk, dt: 20210220-073418-283903 }
 - { lastname: Proctor, firstname: John, dt: 20210220-083144-378956 }
+- { lastname: Rutter, firstname: Jane, dt: 20210220-092220-500857 }
+- { lastname: Salter, firstname: Tim, dt: 20210220-092517-870565 }
