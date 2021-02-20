@@ -88,3 +88,8 @@ people:
 - { lastname: Black, firstname: Ian, dt: 20210220-142730-763865 }
 - { lastname: Edgecombe, firstname: Catherine, dt: 20210220-133423-768044 }
 - { lastname: Evans, firstname: Heather, dt: 20210220-103624-866932 }
+- { lastname: Partridge, firstname: Ben, dt: 20210220-150109-564856 }
+- { lastname: Brewin, firstname: Steve, dt: 20210220-171535-544871 }
+- { lastname: Estelle , firstname: Lorraine , dt: 20210220-143955-408461 }
+- { lastname: Baker, firstname: Laura, dt: 20210220-131705-110321 }
+- { lastname: Corrie, firstname: Rachael , dt: 20210220-173716-219848 }
