@@ -74,3 +74,8 @@ people:
 - { lastname: Proctor, firstname: John, dt: 20210220-083144-378956 }
 - { lastname: Rutter, firstname: Jane, dt: 20210220-092220-500857 }
 - { lastname: Salter, firstname: Tim, dt: 20210220-092517-870565 }
+- { lastname: Lindley, firstname: Richard, dt: 20210220-102804-764269 }
+- { lastname: Crouch, firstname: Joseph, dt: 20210220-104718-337955 }
+- { lastname: Chance, firstname: Serena, dt: 20210220-104435-176853 }
+- { lastname: Holland, firstname: Sara, dt: 20210219-213936-818147 }
+- { lastname: Gummerson, firstname: Helen, dt: 20210220-102924-197508 }
