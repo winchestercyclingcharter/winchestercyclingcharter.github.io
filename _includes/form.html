@@ -13,7 +13,9 @@
     You can read our full privacy policy <a href="{{ site.url }}/info/privacy-policy" >here</a>.
   </p>
 
-    <form id="support-form" action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" method="post">
+    <form id="support-form" 
+          action="https://europe-west2-winchestercyclingcharter.cloudfunctions.net/catch_form" 
+          method="post">
 
       {% if page.thisname == "Organisation" %}
       <fieldset>
@@ -154,13 +156,24 @@
       </fieldset>
 
       <div class="form-group">
-        <div class="g-recaptcha" data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" data-expired-callback="expiredRecaptchaCallback" data-callback="verifyRecaptchaCallback"></div>
-        <input class="form-control d-none" data-recaptcha="true" required="true" data-error="Please confirm you are not a robot">
+        <div class="g-recaptcha" 
+            data-sitekey="6Lco1t0ZAAAAAINbksPHbipS4RxuzIOnFqtnpzPM" 
+            data-expired-callback="expiredRecaptchaCallback" 
+            data-callback="verifyRecaptchaCallback">
+        </div>
+        <input class="form-control d-none" 
+                data-recaptcha="true" 
+                required="true" 
+                data-error="Please confirm you are not a robot">
         <div class="help-block with-errors"></div>
       </div>
 
       <input type="hidden" id="nextPage" name="siteUrl" value="{{site.url}}">
-      <input type="submit" class="btn btn-success btn-send" name="button" value="Sign the Charter">
+      <input id="submitbtn" 
+            type="submit" 
+            class="btn btn-success btn-send" 
+            name="button" 
+            value="Sign the Charter">
 
     </form>
     
