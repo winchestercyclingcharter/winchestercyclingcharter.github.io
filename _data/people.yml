@@ -112,3 +112,9 @@ people:
 - { lastname: Gray, firstname: Joanne, dt: 20210221-134205-488113 }
 - { lastname: Whitehead, firstname: Pam, dt: 20210221-092657-877834 }
 - { lastname: Wallace, firstname: Malcolm, dt: 20210221-174252-266457 }
+- { lastname: Harvey, firstname: Clare, dt: 20210221-161919-502411 }
+- { lastname: Martin, firstname: Natalie, dt: 20210221-154350-770316 }
+- { lastname: Saunders , firstname: Laurence , dt: 20210221-160937-217986 }
+- { lastname: Zakrzewski, firstname: Sonia, dt: 20210221-200302-769473 }
+- { lastname: Slimm, firstname: George, dt: 20210221-201806-919994 }
+- { lastname: Howard, firstname: Monica , dt: 20210219-090646-979976 }
