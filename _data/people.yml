@@ -142,3 +142,8 @@ people:
 - { lastname: Underwood, firstname: Tim, dt: 20210222-153736-717315 }
 - { lastname: bruce, firstname: jim, dt: 20210222-154901-351176 }
 - { lastname: Burrows, firstname: Robin, dt: 20210222-155649-316641 }
+- { lastname: Adams, firstname: Chris, dt: 20210222-161331-021753 }
+- { lastname: Bryant, firstname: Timothy, dt: 20210222-153424-384038 }
+- { lastname: Brockman, firstname: Richard, dt: 20210222-162544-521263 }
+- { lastname: Collins, firstname: Darren, dt: 20210222-162738-423649 }
+- { lastname: Horn, firstname: Richard, dt: 20210222-161901-240831 }
