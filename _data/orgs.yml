@@ -27,5 +27,6 @@ orgs:
 - { title: walkWINCHESTER, website: 'https://walkwinchester.co.uk', logo: 'walkwinchester-250.png', founding: false, dt: 20210221-130847-298723 }
 - { title: Zedify, website: 'https://www.zedify.co.uk', logo: 'zedify-250.png', founding: false, dt: 20210221-181135-340898 }
 - { title: New Energy Fitness , website: 'https://www.newenergyfitness.co.uk/', logo: '#', founding: false, dt: 20210220-164726-326615 }
-- { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }- { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
+- { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
+- { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
 - { title: Balduina Ltd. , website: 'https://www.balduina.co.uk', logo: '#', founding: false, dt: 20210218-191233-195718 }
