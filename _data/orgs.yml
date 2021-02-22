@@ -28,6 +28,7 @@ orgs:
 - { title: Zedify, website: 'https://www.zedify.co.uk', logo: 'zedify-250.png', founding: false, dt: 20210221-181135-340898 }
 - { title: New Energy Fitness , website: 'https://www.newenergyfitness.co.uk/', logo: 'new-energy-fitness-250.png', founding: false, dt: 20210220-164726-326615 }
 - { title: McLean Quinlan, website: 'https://mcleanquinlan.com', logo: 'mclean-quinlan-250.png', founding: false, dt: 20210222-155022-822168 }
+- { title: Worthy Wheelers Cycling Club, website: 'https://www.worthywheelers.cc/', logo: 'wwheelers-250.png', founding: false, dt: 20210222-214553-643883 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
 - { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
 - { title: Balduina Ltd. , website: 'https://www.balduina.co.uk', logo: '#', founding: false, dt: 20210218-191233-195718 }
