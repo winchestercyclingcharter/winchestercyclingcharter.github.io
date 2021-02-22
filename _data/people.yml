@@ -131,3 +131,8 @@ people:
 - { lastname: Westwood, firstname: Chris, dt: 20210222-080642-192111 }
 - { lastname: Owen, firstname: Vicky , dt: 20210222-082614-510772 }
 - { lastname: Beagrie, firstname: Rachel, dt: 20210222-091821-406902 }
+- { lastname: Eve, firstname: Richard, dt: 20210222-093245-302573 }
+- { lastname: Lyons, firstname: Fergus, dt: 20210221-211616-308139 }
+- { lastname: Byers, firstname: Julie, dt: 20210222-094639-011928 }
+- { lastname: Van-de-Peer, firstname: Ben, dt: 20210222-101453-141314 }
+- { lastname: Perrin, firstname: Alex, dt: 20210222-110729-121695 }
