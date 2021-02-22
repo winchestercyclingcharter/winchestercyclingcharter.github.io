@@ -136,3 +136,7 @@ people:
 - { lastname: Byers, firstname: Julie, dt: 20210222-094639-011928 }
 - { lastname: Van-de-Peer, firstname: Ben, dt: 20210222-101453-141314 }
 - { lastname: Perrin, firstname: Alex, dt: 20210222-110729-121695 }
+- { lastname: Perrin, firstname: Sarah, dt: 20210220-221434-171518 }
+- { lastname: Lowres, firstname: Jo, dt: 20210222-152828-945086 }
+- { lastname: Lewis, firstname: Rhys, dt: 20210222-153606-012816 }
+- { lastname: Underwood, firstname: Tim, dt: 20210222-153736-717315 }
