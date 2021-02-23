@@ -30,8 +30,8 @@ orgs:
 - { title: McLean Quinlan, website: 'https://mcleanquinlan.com', logo: 'mclean-quinlan-250.png', founding: false, dt: 20210222-155022-822168 }
 - { title: Worthy Wheelers Cycling Club, website: 'https://www.worthywheelers.cc/', logo: 'wwheelers-250.png', founding: false, dt: 20210222-214553-643883 }
 - { title: Chase the Sun Cycle Limited , website: 'https://www.chasethesun.org/', logo: 'chasethesun-250.png', founding: false, dt: 20210222-234334-124053 }
-- { title: DFL-UK, website: 'https://www.dfl-uk.com/', logo: '#', founding: false, dt: 20210223-084128-748416 }
-- { title: ismybillfair.com, website: 'https://www.ismybillfair.com/', logo: '#', founding: false, dt: 20210223-131243-938060 }
+- { title: DFL-UK, website: 'https://www.dfl-uk.com/', logo: 'dfl-250.png', founding: false, dt: 20210223-084128-748416 }
+- { title: ismybillfair.com, website: 'https://www.ismybillfair.com/', logo: 'ismybillfair-250.png', founding: false, dt: 20210223-131243-938060 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
 - { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
 - { title: Balduina Ltd. , website: 'https://www.balduina.co.uk', logo: '#', founding: false, dt: 20210218-191233-195718 } 
