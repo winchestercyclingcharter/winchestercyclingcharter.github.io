@@ -118,7 +118,6 @@ people:
 - { lastname: Slimm, firstname: George, dt: 20210221-201806-919994 }
 - { lastname: Howard, firstname: Monica , dt: 20210219-090646-979976 }
 - { lastname: nall, firstname: Kathryn, dt: 20210221-192000-234063 }
-- { lastname: Bickerton, firstname: Caroline, dt: 20210221-102738-273444 }
 - { lastname: Howlett, firstname: Katherine, dt: 20210221-211141-093894 }
 - { lastname: Lyons, firstname: Fergus, dt: 20210221-211616-308139 }
 - { lastname: Kabacs, firstname: Gabor, dt: 20210221-220708-401374 }
@@ -156,11 +155,9 @@ people:
 - { lastname: Fox, firstname: Sue, dt: 20210222-111732-309883 }
 - { lastname: York, firstname: James, dt: 20210222-153306-227341 }
 - { lastname: Whitmarsh, firstname: Bob, dt: 20210222-164107-742572 }
-- { lastname: Graham , firstname: Lucinda , dt: 20210222-174737-540007 }
 - { lastname: Daniell, firstname: Patrick, dt: 20210222-190702-117472 }
 - { lastname: Whitt, firstname: Darren, dt: 20210222-181241-614951 }
 - { lastname: Towns, firstname: Neil, dt: 20210222-190425-864002 }
-- { lastname: Chappell, firstname: Christine, dt: 20210222-172205-331230 }
 - { lastname: Baker, firstname: Paul, dt: 20210222-195645-029366 }
 - { lastname: Broadbent, firstname: Andrew, dt: 20210222-155023-728861 }
 - { lastname: Bell, firstname: Peter, dt: 20210222-201309-287050 }
