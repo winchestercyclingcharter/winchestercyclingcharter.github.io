@@ -193,3 +193,16 @@ people:
 - { lastname: Murphy , firstname: Sam, dt: 20210223-130036-326697 }
 - { lastname: Smith, firstname: Paul, dt: 20210223-150857-146727 }
 - { lastname: parker, firstname: rosalind, dt: 20210223-190009-298102 }
+- { lastname: Robinson, firstname: Simon, dt: 20210222-200510-477749 }
+- { lastname: Wray, firstname: Nick, dt: 20210223-234058-854700 }
+- { lastname: Leihener, firstname: Klaudia, dt: 20210223-204946-886395 }
+- { lastname: Spring, firstname: gary, dt: 20210224-084442-185038 }
+- { lastname: Hampson, firstname: Charlie, dt: 20210224-092524-497975 }
+- { lastname: Richards, firstname: Karon, dt: 20210224-120822-431295 }
+- { lastname: Myers, firstname: Keith, dt: 20210224-121157-745178 }
+- { lastname: Benzie, firstname: Mark, dt: 20210224-122110-277964 }
+- { lastname: Thompson , firstname: Yvonne , dt: 20210224-122727-685017 }
+- { lastname: Smith, firstname: Ben, dt: 20210224-143831-923630 }
+- { lastname: Pozniak, firstname: Helena, dt: 20210224-143538-693453 }
+- { lastname: Lindsay, firstname: Nick, dt: 20210222-114347-498873 }
+- { lastname: Peacock, firstname: Sarah, dt: 20210224-153633-302428 }
