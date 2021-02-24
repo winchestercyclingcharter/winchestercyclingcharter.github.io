@@ -1,18 +1,18 @@
 wards:
-- { ward: aliv, orgs: 1, inds: 5 }
-- { ward: baol, orgs: 1, inds: 11 }
-- { ward: barn, orgs: 1, inds: 25 }
-- { ward: bart, orgs: 13, inds: 53 }
-- { ward: biwa, orgs: 0, inds: 4 }
-- { ward: cctw, orgs: 0, inds: 10 }
-- { ward: cmeo, orgs: 1, inds: 2 }
-- { ward: denm, orgs: 0, inds: 0 }
-- { ward: luke, orgs: 0, inds: 4 }
-- { ward: mich, orgs: 10, inds: 21 }
-- { ward: paul, orgs: 4, inds: 24 }
-- { ward: sowi, orgs: 0, inds: 0 }
-- { ward: umeo, orgs: 0, inds: 1 }
-- { ward: whsh, orgs: 0, inds: 0 }
-- { ward: womi, orgs: 1, inds: 2 }
-- { ward: wort, orgs: 2, inds: 14 }
-- { ward: xxxx, orgs: 0, inds: 35 }
+- { ward: aliv, name: Alresford & Itchen Valley, pos: [51.08138, -1.26357], orgs: 1, inds: 5 }
+- { ward: baol, name: Badger Fm & Olivers B, pos: [51.03665, -1.36462], orgs: 1, inds: 11 }
+- { ward: barn, name: St Barnabas, pos: [51.07393, -1.33552], orgs: 1, inds: 25 }
+- { ward: bart, name: St Bartholomew, pos: [51.06773, -1.30231], orgs: 13, inds: 53 }
+- { ward: biwa, name: Bishops Waltham, pos: [50.95464, -1.21292], orgs: 0, inds: 4 }
+- { ward: cctw, name: Colden Common & Twyford, pos: [51.03045, -1.29911], orgs: 0, inds: 10 }
+- { ward: cmeo, name: Central Meon Valley, pos: [50.94535, -1.13208], orgs: 1, inds: 2 }
+- { ward: denm, name: Denmead, pos: [50.90423, -1.06616], orgs: 0, inds: 0 }
+- { ward: luke, name: St Luke, pos: [51.05203, -1.33836], orgs: 0, inds: 4 }
+- { ward: mich, name: St Michael, pos: [51.05257, -1.31226], orgs: 10, inds: 21 }
+- { ward: paul, name: St Paul, pos: [51.06309, -1.33733], orgs: 4, inds: 25 }
+- { ward: sowi, name: Southwick & Wickham, pos: [50.89427, -1.16195], orgs: 0, inds: 0 }
+- { ward: umeo, name: Upper Meon Valley, pos: [51.01501, -1.25224], orgs: 0, inds: 1 }
+- { ward: whsh, name: Whiteley & Shedfield, pos: [50.91916, -1.24143], orgs: 0, inds: 0 }
+- { ward: womi, name: Wonston & Micheldever, pos: [51.124, -1.31043], orgs: 1, inds: 2 }
+- { ward: wort, name: The Worthys, pos: [51.08763, -1.31095], orgs: 2, inds: 14 }
+- { ward: xxxx, name: Out of district, pos: [51.15589, -1.16419], orgs: 0, inds: 35 }
