@@ -1,0 +1,18 @@
+wards:
+- { ward: aliv, orgs: 1, inds: 5 }
+- { ward: baol, orgs: 1, inds: 11 }
+- { ward: barn, orgs: 1, inds: 25 }
+- { ward: bart, orgs: 13, inds: 53 }
+- { ward: biwa, orgs: 0, inds: 4 }
+- { ward: cctw, orgs: 0, inds: 10 }
+- { ward: cmeo, orgs: 1, inds: 2 }
+- { ward: denm, orgs: 0, inds: 0 }
+- { ward: luke, orgs: 0, inds: 4 }
+- { ward: mich, orgs: 10, inds: 21 }
+- { ward: paul, orgs: 4, inds: 24 }
+- { ward: sowi, orgs: 0, inds: 0 }
+- { ward: umeo, orgs: 0, inds: 1 }
+- { ward: whsh, orgs: 0, inds: 0 }
+- { ward: womi, orgs: 1, inds: 2 }
+- { ward: wort, orgs: 2, inds: 14 }
+- { ward: xxxx, orgs: 0, inds: 35 }
