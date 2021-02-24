@@ -1,0 +1,67 @@
+<div id="map">
+</div>
+
+
+<script>
+    // create the map object and set the cooridnates of the initial view:
+    var map = L.map('map').setView([51.06143279989087, -1.3102797005169071], 12);
+
+    // Marker locations and names
+    let wards = [
+        {abbrev: 'aliv', name: 'Alresford & Itchen Valley', pos: [51.0858, -1.24332]},
+        {abbrev: 'baol', name: 'Badger Fm & Olivers B', pos: [51.03557, -1.3672]},
+        {abbrev: 'barn', name: 'St Barnabas', pos: [51.07577, -1.32849]},
+        {abbrev: 'bart', name: 'St Bartholomew', pos: [51.07, -1.31038]},
+        {abbrev: 'biwa', name: 'Bishops Waltham', pos: [50.95464, -1.21292]},
+        {abbrev: 'cctw', name: 'Colden Common & Twyford', pos: [51.02343, -1.3125]},
+        {abbrev: 'cmeo', name: 'Central Meon Valley', pos: [50.94535, -1.13208]},
+        {abbrev: 'denm', name: 'Denmead', pos: [50.90423, -1.06616]},
+        {abbrev: 'luke', name: 'St Luke', pos: [51.05203, -1.33836]},
+        {abbrev: 'mich', name: 'St Michael', pos: [51.05257, -1.31226]},
+        {abbrev: 'paul', name: 'St Paul', pos: [51.06309, -1.33733]},
+        {abbrev: 'sowi', name: 'Southwick & Wickham', pos: [50.89427, -1.16195]},
+        {abbrev: 'umeo', name: 'Upper Meon Valley', pos: [51.01501, -1.25224]},
+        {abbrev: 'whsh', name: 'Whiteley & Shedfield', pos: [50.91916, -1.24143]},
+        {abbrev: 'womi', name: 'Wonston & Micheldever', pos: [51.124, -1.31043]},
+        {abbrev: 'wort', name: 'The Worthys', pos: [51.10175, -1.29808]},
+    ]
+
+    const fontAwesomeIcon = L.divIcon({
+        html: '<i class="fas fa-map-marker-alt fa-3x"></i>',
+        iconSize: [20, 20],
+        className: 'myDivIcon'
+    });
+
+
+    
+    // create the tile layer with correct attribution:
+    L.tileLayer('https://tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=e66105b058184c0ba7d38c736145e28e', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        maxZoom: 18
+    }).addTo(map);
+
+    // add a marker for each ward
+    wards.forEach(function(w, index) {
+        var marker = L.marker(
+            w['pos'], 
+            // {title: w['name'], riseOnHover: true, icon:  fontAwesomeIcon}
+            {title: w['name'], riseOnHover: true}
+        );
+        marker.bindPopup(w['name']).openPopup();
+        marker.addTo(map);
+    });
+
+    // fetch boundaries from static file
+    var initBoundaries = {method: 'GET', 
+        headers: {'Content-Type': 'application/json'},
+        mode: 'cors',
+        cache: 'default'}
+    let myBoundariesReq = new Request("/assets/js/winchester.geojson", initBoundaries);
+    fetch(myBoundariesReq).then(
+        function(resp) {
+            return resp.json();
+        }).then(
+            function(boundaries) {
+                L.geoJSON(boundaries).addTo(map);
+            });
+</script>
