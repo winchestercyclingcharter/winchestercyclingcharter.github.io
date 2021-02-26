@@ -214,3 +214,6 @@ people:
 - { lastname: Buckingham, firstname: Christopher, dt: 20210225-161141-938380 }
 - { lastname: Sadler, firstname: Sally, dt: 20210225-202108-544040 }
 - { lastname: Arthur, firstname: Jack, dt: 20210225-214454-798780 }
+- { lastname: Moore, firstname: Brendan , dt: 20210226-064306-707627 }
+- { lastname: Shorter, firstname: Brian, dt: 20210226-091449-498533 }
+- { lastname: Little, firstname: Jo, dt: 20210224-085739-277083 }
