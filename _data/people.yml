@@ -233,3 +233,8 @@ people:
 - { lastname: Peller, firstname: Elizabeth, dt: 20210227-164435-767402 }
 - { lastname: Herron, firstname: Anna, dt: 20210227-200305-081888 }
 - { lastname: Smith, firstname: David, dt: 20210227-183420-944538 }
+- { lastname: West, firstname: Paul, dt: 20210228-001629-947401 }
+- { lastname: Robertson, firstname: Andrew, dt: 20210228-115802-246507 }
+- { lastname: Poulter, firstname: Christopher, dt: 20210228-123909-176210 }
+- { lastname: Barnicott, firstname: Lee, dt: 20210228-114134-229037 }
+- { lastname: Schrieber, firstname: Joe, dt: 20210228-124940-104463 }
