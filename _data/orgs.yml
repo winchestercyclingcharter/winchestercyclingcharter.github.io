@@ -37,6 +37,7 @@ orgs:
 - { title: Sprig Knitwear, website: 'https://www.sprigknitwear.co.uk', logo: 'sprigknitwear-250.png', founding: false, dt: 20210225-062159-423071 }
 - { title: Peter Symonds College, website: 'https://www.psc.ac.uk/', logo: 'symonds-250.png', founding: false, dt: 20210226-160118-938444 }
 - { title: Winchester Action on Climate Change, website: 'https://www.winacc.org.uk/', logo: 'winacc-250.png', founding: false, dt: 20210226-202504-362995 }
+- { title: Christ Church, website: 'https://www.ccwinch.org.uk/', logo: 'christchurch-250.png', founding: false, dt: 20210227-173420-207718 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
 - { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
 - { title: Balduina Ltd. , website: 'https://www.balduina.co.uk', logo: '#', founding: false, dt: 20210218-191233-195718 } 
