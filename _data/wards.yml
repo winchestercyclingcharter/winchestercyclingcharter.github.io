@@ -8,7 +8,7 @@ wards:
 - { ward: cmeo, name: Central Meon Valley, pos: [50.94535, -1.13208], orgs: 1, inds: 3 }
 - { ward: denm, name: Denmead, pos: [50.89622, -1.07337], orgs: 0, inds: 0 }
 - { ward: luke, name: St Luke, pos: [51.0502, -1.34488], orgs: 0, inds: 4 }
-- { ward: mich, name: St Michael, pos: [51.05257, -1.3066], orgs: 9, inds: 25 }
+- { ward: mich, name: St Michael, pos: [51.05257, -1.3066], orgs: 10, inds: 25 }
 - { ward: paul, name: St Paul, pos: [51.06309, -1.33733], orgs: 5, inds: 39 }
 - { ward: sowi, name: Southwick & Wickham, pos: [50.87153, -1.10393], orgs: 0, inds: 0 }
 - { ward: umeo, name: Upper Meon Valley, pos: [51.01501, -1.25224], orgs: 0, inds: 1 }
