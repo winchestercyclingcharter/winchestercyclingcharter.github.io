@@ -17,7 +17,6 @@ orgs:
 - { title: University of Winchester, website: 'https://www.winchester.ac.uk/', logo: 'UoWinchester-250.png', founding: true, dt: 20210206-182324-496356 }
 - { title: Warren & Son, website: 'https://www.warrenandson.com/', logo: 'warrens-250.png', founding: true, dt: 20210206-184721-209907 }
 - { title: Winchester Cathedral, website: 'https://www.winchester-cathedral.org.uk/', logo: 'cathedral-250.png', founding: true, dt: 20210206-182324-496356 }
-# - { title: Winchester City Council, website: 'https://www.winchester.gov.uk/', logo: 'WCC-Logo-250.png', founding: true, dt: 20210206-182216-079754 }
 - { title: Winchester City Primary Care Network, website: 'https://www.winchestercitypcn.co.uk/', logo: 'win_city_pcn_logo-250.png', founding: true, dt: 20210206-182439-920013 }
 - { title: Winchester CTC, part of Cycling UK, website: 'https://www.winchesterctc.org.uk/', logo: 'winctc-250.png', founding: true, dt: 20210206-183936-579245 }
 - { title: Cycle Alton, website: 'https://altonclimatenetwork.org.uk', logo: 'cycle-alton-250.png', founding: false, dt: 20210218-083210-589406 }
@@ -39,6 +38,7 @@ orgs:
 - { title: Winchester Action on Climate Change, website: 'https://www.winacc.org.uk/', logo: 'winacc-250.png', founding: false, dt: 20210226-202504-362995 }
 - { title: Christ Church, website: 'https://www.ccwinch.org.uk/', logo: 'christchurch-250.png', founding: false, dt: 20210227-173420-207718 }
 - { title: Ministry of Fish Marketing Ltd, website: 'http://www.ministryoffish.com/', logo: 'minoffish-250.png', founding: false, dt: 20210303-111146-076016 }
+- { title: Lane Clark & Peacock LLP, website: 'https://www.lcp.uk.com/', logo: 'lcp-250.png', founding: false, dt: 20210303-204848-496904 }
 
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
 - { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
