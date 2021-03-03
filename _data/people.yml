@@ -264,3 +264,7 @@ people:
 - { lastname: Nandy, firstname: Jane, dt: 20210220-111747-132855 }
 - { lastname: Downes, firstname: Selina, dt: 20210219-111341-943745 }
 - { lastname: Shcherbinin, firstname: Vasily, dt: 20210303-154728-102441 }
+- { lastname: Conway-Jones, firstname: David, dt: 20210303-163858-680782 }
+- { lastname: Eden, firstname: Julie, dt: 20210303-185526-989719 }
+- { lastname: Andrews, firstname: Chris, dt: 20210303-154301-647990 }
+- { lastname: Gooding , firstname: Giles, dt: 20210303-200248-640838 }
