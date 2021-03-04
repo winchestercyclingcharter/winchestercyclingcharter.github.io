@@ -279,3 +279,6 @@ people:
 - { lastname: Morgan, firstname: Nick, dt: 20210222-150048-917013 }
 - { lastname: Dewsnap, firstname: Alice, dt: 20210222-102517-932254 }
 - { lastname: Scoyy, firstname: Helen, dt: 20210221-143826-214435 }
+- { lastname: Smith, firstname: Bruce, dt: 20210304-141203-761931 }
+- { lastname: Osborne, firstname: Daniel, dt: 20210224-151647-896761 }
+- { lastname: Priesemann, firstname: Friedrich, dt: 20210302-191900-956134 }
