@@ -292,3 +292,6 @@ people:
 - { lastname: Taylor, firstname: Jonathan, dt: 20210306-092029-228087 }
 - { lastname: Davies, firstname: Paul, dt: 20210306-130144-988325 }
 - { lastname: Hepworth, firstname: Jan, dt: 20210306-094308-211372 }
+- { lastname: T, firstname: Spring , dt: 20210306-210916-820178 }
+- { lastname: Hopkins, firstname: Guy, dt: 20210307-110449-971467 }
+- { lastname: Hampson, firstname: Monica, dt: 20210307-091725-177473 }
