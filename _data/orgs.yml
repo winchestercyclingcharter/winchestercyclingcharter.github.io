@@ -40,6 +40,7 @@ orgs:
 - { title: Ministry of Fish Marketing Ltd, website: 'http://www.ministryoffish.com/', logo: 'minoffish-250.png', founding: false, dt: 20210303-111146-076016 }
 - { title: Lane Clark & Peacock LLP, website: 'https://www.lcp.uk.com/', logo: 'lcp-250.png', founding: false, dt: 20210303-204848-496904 }
 - { title: Studio Republic, website: 'https://www.studiorepublic.com/', logo: 'studiorepublic-250.png', founding: false, dt: 20210305-162946-597890 }
+- { title: Paris Smith LLP, website: 'https://parissmith.co.uk', logo: '#', founding: false, dt: 20210308-100529-648686 }
 
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
 - { title: Cycle Gosport, website: 'https://www.facebook.com/CycleGosport', logo: '#', founding: false, dt: 20210218-202016-587499 }
