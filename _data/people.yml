@@ -285,7 +285,6 @@ people:
 - { lastname: Mansfield, firstname: Bryce, dt: 20210304-205832-103342 }
 - { lastname: Graham, firstname: Rod, dt: 20210305-144604-452580 }
 - { lastname: Clayton, firstname: Alexander, dt: 20210305-200621-453765 }
-- { lastname: Wallbank, firstname: Mary, dt: 20210303-181005-463864 }
 - { lastname: Wright, firstname: Dan , dt: 20210305-211434-001953 }
 - { lastname: Tamrakar, firstname: Nirjala , dt: 20210305-211515-825582 }
 - { lastname: Clayton, firstname: Rachel, dt: 20210305-212144-214929 }
@@ -297,4 +296,3 @@ people:
 - { lastname: Hampson, firstname: Monica, dt: 20210307-091725-177473 }
 - { lastname: Kitson, firstname: David, dt: 20210308-110404-140487 }
 - { lastname: Slimm, firstname: Gemma, dt: 20210221-202702-918634 }
-- { lastname: Haines, firstname: steve, dt: 20210301-081017-381538 }
