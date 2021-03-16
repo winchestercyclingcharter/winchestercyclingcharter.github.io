@@ -43,6 +43,7 @@ orgs:
 - { title: Paris Smith LLP, website: 'https://parissmith.co.uk', logo: 'parissmith-250.png', founding: false, dt: 20210308-100529-648686 }
 - { title: Anglepoise, website: 'https://www.anglepoise.com/', logo: 'anglepoise-250.png', founding: false, dt: 20210312-155015-470957 }
 - { title: Wessex Group, website: 'http://www.wessex-group.co.uk/', logo: 'wessex-group-250.png', founding: false, dt: 20210313-154820-611777 }
+- { title: Osman Tennis, website: 'http://www.osmantennis.co.uk/', logo: 'osman-tennis-250.png', founding: false, dt: 20210316-140746-278652 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
