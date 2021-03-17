@@ -46,6 +46,8 @@ orgs:
 - { title: Osman Tennis, website: 'http://www.osmantennis.co.uk/', logo: 'osman-tennis-250.png', founding: false, dt: 20210316-140746-278652 }
 - { title: University of Southampton, website: 'https://www.southampton.ac.uk/', logo: 'southampton-250.png', founding: false, dt: 20210317-125849-965951 }
 - { title: Winchester College, website: 'https://www.winchestercollege.org/', logo: 'wincoll-250.png', founding: false, dt: 20210317-171043-247120 }
+- { title: Brightful, website: 'https://wearebrightful.com/', logo: 'brightful-250.png', founding: false, dt: 20210317-212024-130866 }
+- { title: Winchester Creatives, website: 'https://www.winchestercreatives.co.uk/', logo: 'wincreatives-250.png', founding: false, dt: 20210317-213441-996951 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
