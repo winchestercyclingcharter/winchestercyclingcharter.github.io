@@ -48,6 +48,7 @@ orgs:
 - { title: Winchester College, website: 'https://www.winchestercollege.org/', logo: 'wincoll-250.png', founding: false, dt: 20210317-171043-247120 }
 - { title: Brightful, website: 'https://wearebrightful.com/', logo: 'brightful-250.png', founding: false, dt: 20210317-212024-130866 }
 - { title: Winchester Creatives, website: 'https://www.winchestercreatives.co.uk/', logo: 'wincreatives-250.png', founding: false, dt: 20210317-213441-996951 }
+- { title: Rawlings Opticians, website: 'https://rawlingsopticians.co.uk/', logo: 'rawlings-250.png', founding: false, dt: 20210319-095513-837395 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
