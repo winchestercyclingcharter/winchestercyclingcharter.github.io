@@ -340,3 +340,5 @@ people:
 - { lastname: Porter , firstname: Laura, dt: 20210320-213358-857899 }
 - { lastname: Peters, firstname: John, dt: 20210321-175639-468459 }
 - { lastname: Crocker, firstname: Jo, dt: 20210323-121405-322397 }
+- { lastname: Todd, firstname: Stephen, dt: 20210320-093749-095917 }
+- { lastname: Pathak, firstname: Debnarayan , dt: 20210320-194110-387559 }
