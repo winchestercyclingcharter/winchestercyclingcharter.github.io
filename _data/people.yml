@@ -337,3 +337,6 @@ people:
 - { lastname: Struthers, firstname: Simon, dt: 20210320-173225-672123 }
 - { lastname: Mills, firstname: Melissa, dt: 20210321-210016-684688 }
 - { lastname: Driscoll , firstname: Joe, dt: 20210322-083114-908306 }
+- { lastname: Porter , firstname: Laura, dt: 20210320-213358-857899 }
+- { lastname: Peters, firstname: John, dt: 20210321-175639-468459 }
+- { lastname: Crocker, firstname: Jo, dt: 20210323-121405-322397 }
