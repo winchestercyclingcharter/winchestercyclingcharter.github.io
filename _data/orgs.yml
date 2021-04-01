@@ -51,6 +51,7 @@ orgs:
 - { title: Rawlings Opticians, website: 'https://rawlingsopticians.co.uk/', logo: 'rawlings-250.png', founding: false, dt: 20210319-095513-837395 }
 - { title: Northwall Gallery, website: 'https://www.northwallgallery.com/', logo: 'northwall-250.png', founding: false, dt: 20210320-082512-704756 }
 - { title: Whitchurch (Hampshire) Bicycle Users Group, website: 'https://whitchurchbug.org.uk', logo: 'whitchurchbug-250.png', founding: false, dt: 20210323-110253-845328 }
+- { title: Hampshire Cultural Trust, website: 'https://www.hampshireculture.org.uk/', logo: 'hct-250.png', founding: false, dt: 20210331-092407-890512 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
