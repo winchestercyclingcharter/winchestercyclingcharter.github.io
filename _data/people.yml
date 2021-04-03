@@ -82,7 +82,7 @@ people:
 - { lastname: Gabriel, firstname: Helen, dt: 20210219-221842-615724 }
 - { lastname: Agombar, firstname: Hazel, dt: 20210220-114255-824264 }
 - { lastname: Pullen, firstname: Steve, dt: 20210220-121729-493141 }
-- { lastname: Bell, firstname: Eleanor, dt: 20210220-120121-923219 }
+- { lastname: Bell, firstname: Eleanor, dt: 20210220-u120121-923219 }
 - { lastname: Gilmour, firstname: Stuart, dt: 20210220-123346-783599 }
 - { lastname: Agombar, firstname: John, dt: 20210220-133637-592941 }
 - { lastname: Black, firstname: Ian, dt: 20210220-142730-763865 }
@@ -398,3 +398,4 @@ people:
 - { lastname: Reid, firstname: Will, dt: 20210402-204530-834564 }
 - { lastname: Powell, firstname: Judith, dt: 20210402-180542-981692 }
 - { lastname: Alsop, firstname: Sally, dt: 20210403-093509-388682 }
+- { lastname: Pidduck, firstname: Andrew, dt: 20210403-085325-175586 }
