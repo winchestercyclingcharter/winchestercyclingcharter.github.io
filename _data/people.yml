@@ -411,3 +411,6 @@ people:
 - { lastname: Alexander, firstname: David, dt: 20210401-185524-450217 }
 - { lastname: Webb, firstname: Phillip, dt: 20210405-091810-656343 }
 - { lastname: Kerr, firstname: Judith, dt: 20210402-154618-099287 }
+- { lastname: Lewis, firstname: Jack, dt: 20210404-213609-965116 }
+- { lastname: Lowres, firstname: Emma, dt: 20210404-062858-192483 }
+- { lastname: Tallack, firstname: Charles, dt: 20210403-061410-800994 }
