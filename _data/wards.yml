@@ -1,14 +1,14 @@
 wards:
 - { ward: aliv, name: Alresford & Itchen Valley, pos: [51.08138, -1.26357], orgs: 1, inds: 13 }
 - { ward: baol, name: Badger Fm & Olivers B, pos: [51.03665, -1.36462], orgs: 1, inds: 23 }
-- { ward: barn, name: St Barnabas, pos: [51.07555, -1.33621], orgs: 1, inds: 47 }
-- { ward: bart, name: St Bartholomew, pos: [51.06773, -1.30231], orgs: 19, inds: 92 }
+- { ward: barn, name: St Barnabas, pos: [51.07555, -1.33621], orgs: 1, inds: 48 }
+- { ward: bart, name: St Bartholomew, pos: [51.06773, -1.30231], orgs: 19, inds: 93 }
 - { ward: biwa, name: Bishops Waltham, pos: [50.95464, -1.21292], orgs: 0, inds: 6 }
 - { ward: cctw, name: Colden Common & Twyford, pos: [51.03045, -1.29911], orgs: 0, inds: 13 }
 - { ward: cmeo, name: Central Meon Valley, pos: [50.94535, -1.13208], orgs: 1, inds: 5 }
 - { ward: denm, name: Denmead, pos: [50.89622, -1.07337], orgs: 0, inds: 0 }
 - { ward: luke, name: St Luke, pos: [51.0502, -1.34488], orgs: 0, inds: 6 }
-- { ward: mich, name: St Michael, pos: [51.05257, -1.3066], orgs: 17, inds: 56 }
+- { ward: mich, name: St Michael, pos: [51.05257, -1.3066], orgs: 17, inds: 57 }
 - { ward: paul, name: St Paul, pos: [51.06309, -1.33733], orgs: 7, inds: 65 }
 - { ward: sowi, name: Southwick & Wickham, pos: [50.87153, -1.10393], orgs: 0, inds: 0 }
 - { ward: umeo, name: Upper Meon Valley, pos: [51.01501, -1.25224], orgs: 0, inds: 1 }
