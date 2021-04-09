@@ -16,3 +16,4 @@ wards:
 - { ward: womi, name: Wonston & Micheldever, pos: [51.124, -1.31043], orgs: 1, inds: 7 }
 - { ward: wort, name: The Worthys, pos: [51.08763, -1.31095], orgs: 6, inds: 27 }
 - { ward: xxxx, name: Out of district, pos: [51.149, -1.16076], orgs: 0, inds: 61 } 
+
