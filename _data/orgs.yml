@@ -54,6 +54,7 @@ orgs:
 - { title: Hampshire Cultural Trust, website: 'https://www.hampshireculture.org.uk/', logo: 'hct-250.png', founding: false, dt: 20210331-092407-890512 }
 - { title: Bacardi-Martini Ltd, website: 'https://www.bacardilimited.com/', logo: 'Bacardi_Limited-250.png', founding: false, dt: 20210407-083847-046305 }
 - { title: Hotel du Vin Winchester , website: 'https://www.hotelduvin.com/', logo: 'Hotel-Du-Vin-250.png', founding: false, dt: 20210407-225202-021063 }
+- { title: énergie Fitness Winchester, website: 'https://www.energiefitness.com/winchester', logo: 'energie-fitness-250.png', founding: false, dt: 20210416-143225-416355 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
