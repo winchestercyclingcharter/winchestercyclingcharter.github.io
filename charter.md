@@ -4,6 +4,7 @@ title: Sign the Charter
 permalink: /
 redirect_from:
     - /charter/
+    - /flyer-qr
 image: /assets/images/logo.png
 ---
 
