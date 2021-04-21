@@ -5,7 +5,9 @@ permalink: /supporters/
 image: /assets/images/logo.png
 ---
 
-{{ site.data.orgs.orgs.size }} [organisations](#organisations) and {{ site.data.people.people.size }} [individuals](#individuals) have signed the Charter. View the location of supporters on a [map of Winchester City Council electoral wards](/map).
+{{ site.data.orgs.orgs.size }} [organisations](#organisations) and {{ site.data.people.people.size }} [individuals](#individuals) have signed the Charter. 
+
+View the location of supporters on a [map](/map) of Winchester City Council electoral wards.
 
 ## Organisations
 {% include logogrid.html %}
