@@ -56,6 +56,7 @@ orgs:
 - { title: Hotel du Vin Winchester , website: 'https://www.hotelduvin.com/', logo: 'Hotel-Du-Vin-250.png', founding: false, dt: 20210407-225202-021063 }
 - { title: énergie Fitness Winchester, website: 'https://www.energiefitness.com/winchester', logo: 'energie-fitness-250.png', founding: false, dt: 20210416-143225-416355 }
 - { title: Hampshire History Trust, website: 'https://hampshirehistorytrust.com', logo: 'hht-250.png', founding: false, dt: 20210416-094624-467872 }
+- { title: BackPedalling cycle guiding and coaching, website: 'http://www.backpedalling.org.uk/', logo: 'BP-250.png', founding: false, dt: 20210421-084455-845119 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
