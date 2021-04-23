@@ -1,7 +1,7 @@
 wards:
-- { ward: aliv, name: Alresford & Itchen Valley, pos: [51.08138, -1.26357], orgs: 1, inds: 13 }
+- { ward: aliv, name: Alresford & Itchen Valley, pos: [51.08138, -1.26357], orgs: 1, inds: 14 }
 - { ward: baol, name: Badger Fm & Olivers B, pos: [51.03665, -1.36462], orgs: 1, inds: 28 }
-- { ward: barn, name: St Barnabas, pos: [51.07555, -1.33621], orgs: 2, inds: 52 }
+- { ward: barn, name: St Barnabas, pos: [51.07555, -1.33621], orgs: 2, inds: 56 }
 - { ward: bart, name: St Bartholomew, pos: [51.06773, -1.30231], orgs: 19, inds: 95 }
 - { ward: biwa, name: Bishops Waltham, pos: [50.95464, -1.21292], orgs: 0, inds: 6 }
 - { ward: cctw, name: Colden Common & Twyford, pos: [51.03045, -1.29911], orgs: 0, inds: 13 }
