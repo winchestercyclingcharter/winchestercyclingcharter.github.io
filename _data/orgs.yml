@@ -57,6 +57,7 @@ orgs:
 - { title: énergie Fitness Winchester, website: 'https://www.energiefitness.com/winchester', logo: 'energie-fitness-250.png', founding: false, dt: 20210416-143225-416355 }
 - { title: Hampshire History Trust, website: 'https://hampshirehistorytrust.com', logo: 'hht-250.png', founding: false, dt: 20210416-094624-467872 }
 - { title: BackPedalling cycle guiding and coaching, website: 'http://www.backpedalling.org.uk/', logo: 'BP-250.png', founding: false, dt: 20210421-084455-845119 }
+- { title: Limitless Financial Services, website: 'https://limitlessfinance.co.uk/', logo: 'limitless-250.png', founding: false, dt: 20210428-143729-228151 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
@@ -65,5 +66,5 @@ orgs:
 - { title: Just a B, website: 'http://www.justab.co.uk', logo: '#', founding: false, dt: 20210316-150339-530017 }
 - { title: Winchester Green Party, website: 'https://winchester.greenparty.org.uk/', logo: '#', founding: false, dt: 20210320-150149-832352 }
 - { title: Walsh Tours, website: 'https://www.walshtours.com/', logo: '#', founding: false, dt: 20210402-174719-865823 }
-- { title: Limitless Financial Services, website: 'https://limitlessfinance.co.uk/', logo: '#', founding: false, dt: 20210428-143729-228151 }
+
 
