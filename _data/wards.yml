@@ -7,7 +7,7 @@ wards:
 - { ward: cctw, name: Colden Common & Twyford, pos: [51.03045, -1.29911], orgs: 0, inds: 13 }
 - { ward: cmeo, name: Central Meon Valley, pos: [50.94535, -1.13208], orgs: 1, inds: 5 }
 - { ward: denm, name: Denmead, pos: [50.89622, -1.07337], orgs: 0, inds: 0 }
-- { ward: luke, name: St Luke, pos: [51.0502, -1.34488], orgs: 0, inds: 7 }
+- { ward: luke, name: St Luke, pos: [51.0502, -1.34488], orgs: 0, inds: 8 }
 - { ward: mich, name: St Michael, pos: [51.05257, -1.3066], orgs: 19, inds: 66 }
 - { ward: paul, name: St Paul, pos: [51.06309, -1.33733], orgs: 7, inds: 67 }
 - { ward: sowi, name: Southwick & Wickham, pos: [50.87153, -1.10393], orgs: 0, inds: 0 }
