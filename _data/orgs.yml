@@ -59,6 +59,7 @@ orgs:
 - { title: BackPedalling cycle guiding and coaching, website: 'http://www.backpedalling.org.uk/', logo: 'BP-250.png', founding: false, dt: 20210421-084455-845119 }
 - { title: Limitless Financial Services, website: 'https://limitlessfinance.co.uk/', logo: 'limitless-250.png', founding: false, dt: 20210428-143729-228151 }
 - { title: Bikex, website: 'http://bikex.store/', logo: 'bikex-250.png', founding: false, dt: 20210427-133107-914849 }
+- { title: Purdie & Swan, website: 'http://www.purdieandswan.co.uk/', logo: 'purdieswan-250.png', founding: false, dt: 20210503-084247-834582 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
