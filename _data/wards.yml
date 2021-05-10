@@ -14,5 +14,5 @@ wards:
 - { ward: umeo, name: Upper Meon Valley, pos: [51.01501, -1.25224], orgs: 0, inds: 1 }
 - { ward: whsh, name: Whiteley & Shedfield, pos: [50.91267, -1.24143], orgs: 0, inds: 0 }
 - { ward: womi, name: Wonston & Micheldever, pos: [51.124, -1.31043], orgs: 1, inds: 8 }
-- { ward: wort, name: The Worthys, pos: [51.08763, -1.31095], orgs: 7, inds: 28 }
+- { ward: wort, name: The Worthys, pos: [51.08763, -1.31095], orgs: 8, inds: 29 }
 - { ward: xxxx, name: Out of district, pos: [51.149, -1.16076], orgs: 0, inds: 66 }
