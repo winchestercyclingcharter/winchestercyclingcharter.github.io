@@ -63,6 +63,7 @@ orgs:
 - { title: Barton Farm Primary Academy, website: 'https://bartonfarmacademy.co.uk/', logo: 'bartonfarm-250.png', founding: false, dt: 20210505-103921-556974 }
 - { title: The Cycle Company, website: 'https://www.thecyclecompany.co.uk/', logo: 'cycleco-250.png', founding: false, dt: 20210527-164649-963399 }
 - { title: Play to the Crowd, website: 'https://playtothecrowd.co.uk/', logo: 'playtothecrowd-250.png', founding: false, dt: 20210528-083619-145197 }
+- { title: Earthian Zero Waste Shop, website: 'https://www.earthianzerowasteshop.co.uk/', logo: 'earthian-250.png', founding: false, dt: 20210617-155349-537509 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
