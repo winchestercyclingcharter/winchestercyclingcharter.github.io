@@ -512,3 +512,6 @@ people:
 - { lastname: Jones, firstname: Claire, dt: 20210707-185306-368835 }
 - { lastname: Newton , firstname: Rob, dt: 20210708-081050-120730 }
 - { lastname: Wood, firstname: Kathryn, dt: 20210708-135837-238032 }
+- { lastname: Lam, firstname: Gary, dt: 20210710-160307-356203 }
+- { lastname: Haughton, firstname: Timothy, dt: 20210711-092430-556562 }
+- { lastname: Fryer, firstname: Tom, dt: 20210711-112513-963614 }
