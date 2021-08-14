@@ -534,3 +534,8 @@ people:
 - { lastname: Todd, firstname: Peter, dt: 20210807-170743-922254 }
 - { lastname: Young, firstname: Patrick, dt: 20210807-222258-493217 }
 - { lastname: Thomas, firstname: Hywel, dt: 20210810-090243-169695 }
+- { lastname: Forbes, firstname: Cara, dt: 20210812-101842-671341 }
+- { lastname: Hendron, firstname: Rachel, dt: 20210812-145351-158371 }
+- { lastname: Powell, firstname: Stephen, dt: 20210811-182136-432804 }
+- { lastname: Powell, firstname: Eleanor, dt: 20210812-171119-161002 }
+- { lastname: Wakefield, firstname: Christian, dt: 20210812-151854-639716 }
