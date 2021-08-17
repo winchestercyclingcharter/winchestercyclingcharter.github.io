@@ -66,6 +66,7 @@ orgs:
 - { title: Earthian Zero Waste Shop, website: 'https://www.earthianzerowasteshop.co.uk/', logo: 'earthian-250.png', founding: false, dt: 20210617-155349-537509 }
 - { title: The Handmade Cyclist, website: 'https://thehandmadecyclist.com/', logo: 'handmade-cyclist-250.png', founding: false, dt: 20210621-065342-432764 }
 - { title: Mimosa Montessori, website: 'https://m.facebook.com/MimosaMontessori/', logo: 'mimosa-montessori-250.jpg', founding: false, dt: 20210621-065244-802636 }
+- { title: The TutorBank, website: 'https://www.thetutorbank.co.uk', logo: 'tutor-banke-250.png', founding: false, dt: 20210817-084527-826268 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
