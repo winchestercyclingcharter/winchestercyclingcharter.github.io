@@ -556,3 +556,6 @@ people:
 - { lastname: Agombar, firstname: John, dt: 20211011-201209-296952 }
 - { lastname: Birch, firstname: Davina , dt: 20211011-205119-616754 }
 - { lastname: Birch, firstname: Marchant, dt: 20211012-131808-360349 }
+- { lastname: Cooney, firstname: Rebecca, dt: 20211012-092354-960591 }
+- { lastname: Smeeth, firstname: Max, dt: 20210926-141202-092400 }
+- { lastname: Dickens, firstname: Pamela, dt: 20211013-075057-700212 }
