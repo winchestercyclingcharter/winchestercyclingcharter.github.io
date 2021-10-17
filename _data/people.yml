@@ -233,7 +233,6 @@ people:
 - { lastname: Peller, firstname: Elizabeth, dt: 20210227-164435-767402 }
 - { lastname: Herron, firstname: Anna, dt: 20210227-200305-081888 }
 - { lastname: Smith, firstname: David, dt: 20210227-183420-944538 }
-- { lastname: West, firstname: Paul, dt: 20210228-001629-947401 }
 - { lastname: Robertson, firstname: Andrew, dt: 20210228-115802-246507 }
 - { lastname: Poulter, firstname: Christopher, dt: 20210228-123909-176210 }
 - { lastname: Barnicott, firstname: Lee, dt: 20210228-114134-229037 }
@@ -389,7 +388,6 @@ people:
 - { lastname: Hemming, firstname: Nigel, dt: 20210329-091741-534608 }
 - { lastname: Cooper, firstname: Stephen, dt: 20210401-115007-933262 }
 - { lastname: Kilintari, firstname: Marina, dt: 20210401-134724-990793 }
-- { lastname: Fry, firstname: Peter, dt: 20210401-074109-356614 }
 - { lastname: Sharpe, firstname: Ben, dt: 20210401-113622-639901 }
 - { lastname: Buckland, firstname: James, dt: 20210401-075805-317557 }
 - { lastname: Tatham, firstname: MARY-ROSE, dt: 20210401-193035-592999 }
