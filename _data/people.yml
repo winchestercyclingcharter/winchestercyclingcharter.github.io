@@ -624,3 +624,20 @@ people:
 - { lastname: Fry, firstname: Peter, dt: 20211017-132756-122216 }
 - { lastname: Pullen, firstname: Candice, dt: 20211017-073436-705584 }
 - { lastname: watson, firstname: kevin, dt: 20211017-133349-586012 }
+- { lastname: Turner, firstname: Amanda, dt: 20211017-160615-639959 }
+- { lastname: Saunders, firstname: Adam, dt: 20211015-153822-116718 }
+- { lastname: Coulter, firstname: Jemima, dt: 20211016-190729-049417 }
+- { lastname: Roberts , firstname: Andrew , dt: 20211016-132926-948916 }
+- { lastname: Coates, firstname: Angela , dt: 20211016-185528-466236 }
+- { lastname: Kaine, firstname: Julian, dt: 20211017-180807-179089 }
+- { lastname: Crooks, firstname: Richard, dt: 20211017-182513-050622 }
+- { lastname: Duke, firstname: Andy, dt: 20211017-182737-648963 }
+- { lastname: Lord, firstname: Robert, dt: 20211016-190748-485512 }
+- { lastname: Bennett, firstname: Jo, dt: 20211016-192421-311503 }
+- { lastname: McHardy, firstname: Gregor, dt: 20211017-181242-672875 }
+- { lastname: Collins, firstname: Rachel , dt: 20211015-213203-962541 }
+- { lastname: Kelsey, firstname: Mark, dt: 20211017-191133-264249 }
+- { lastname: Armour, firstname: Helen, dt: 20211017-191753-450946 }
+- { lastname: Hodgkinson , firstname: Andy, dt: 20211017-190959-202236 }
+- { lastname: Askew , firstname: James , dt: 20211016-145625-115282 }
+- { lastname: Redfern, firstname: Marcus, dt: 20211016-181851-484081 }
