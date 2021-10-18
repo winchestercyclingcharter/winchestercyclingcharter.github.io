@@ -65,7 +65,6 @@ people:
 - { lastname: Fletcher, firstname: Natalie, dt: 20210219-092835-871119 }
 - { lastname: Beecham, firstname: Mat, dt: 20210219-180524-527481 }
 - { lastname: Nekhlyudova, firstname: Irina, dt: 20210219-164311-086626 }
-- { lastname: fisher, firstname: charlotte, dt: 20210219-185011-892165 }
 - { lastname: Graham , firstname: Lucinda , dt: 20210219-191618-137664 }
 - { lastname: Airey, firstname: Katherine, dt: 20210219-202038-520045 }
 - { lastname: Boyd, firstname: Robert, dt: 20210219-211329-551879 }
@@ -660,3 +659,25 @@ people:
 - { lastname: Becker, firstname: Kathleen, dt: 20211018-123933-325304 }
 - { lastname: Osborne, firstname: Gareth, dt: 20211018-125011-683141 }
 - { lastname: Miller, firstname: James, dt: 20211018-124255-784627 }
+- { lastname: Bell, firstname: Catherine, dt: 20211018-145608-136285 }
+- { lastname: Halford, firstname: Jo, dt: 20211018-153205-175952 }
+- { lastname: Rai, firstname: Sabim, dt: 20211018-155242-041492 }
+- { lastname: Patey, firstname: Steve, dt: 20211018-151544-614119 }
+- { lastname: Gurnham, firstname: Hannah, dt: 20211018-115619-398805 }
+- { lastname: Carter, firstname: Rebecca, dt: 20211018-181959-019989 }
+- { lastname: Collings, firstname: Matthew, dt: 20211018-182251-066459 }
+- { lastname: McHardy, firstname: Gregor, dt: 20211017-181242-672875 }
+- { lastname: Austin, firstname: David, dt: 20211018-192753-828789 }
+- { lastname: York, firstname: Amanda, dt: 20211016-221151-458055 }
+- { lastname: Zoon , firstname: Marion, dt: 20211018-194847-051168 }
+- { lastname: fisher, firstname: charlotte, dt: 20211018-190929-207532 }
+- { lastname: Chessum , firstname: Alexandra , dt: 20211018-195305-678107 }
+- { lastname: Ward, firstname: Mark, dt: 20211018-195621-672695 }
+- { lastname: Foley, firstname: Naoe, dt: 20211018-200557-777655 }
+- { lastname: Isaac, firstname: Mark, dt: 20211018-201239-381027 }
+- { lastname: duxbury, firstname: Victoria, dt: 20211018-181654-526460 }
+- { lastname: Owen Wintersgill, firstname: Caroline, dt: 20211018-203650-575294 }
+- { lastname: Lockwood, firstname: Rebecca, dt: 20211018-205718-271384 }
+- { lastname: Coulter, firstname: Jemima, dt: 20211016-190729-049417 }
+- { lastname: Harvey-Smith, firstname: Karl, dt: 20211018-211352-447865 }
+- { lastname: Murphy, firstname: Richard, dt: 20211018-213743-712609 }
