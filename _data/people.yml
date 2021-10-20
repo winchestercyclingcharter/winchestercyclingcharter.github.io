@@ -160,7 +160,6 @@ people:
 - { lastname: Baker, firstname: Paul, dt: 20210222-195645-029366 }
 - { lastname: Broadbent, firstname: Andrew, dt: 20210222-155023-728861 }
 - { lastname: Bell, firstname: Peter, dt: 20210222-201309-287050 }
-- { lastname: Wallbank, firstname: Mary, dt: 20210222-201522-751140 }
 - { lastname: Edgoose , firstname: Jonathan , dt: 20210222-203233-056138 }
 - { lastname: Whitmarsh, firstname: Maya, dt: 20210222-204845-879293 }
 - { lastname: Banks, firstname: Dan, dt: 20210222-202211-083777 }
@@ -700,3 +699,4 @@ people:
 - { lastname: Burn, firstname: George, dt: 20211016-193521-512864 }
 - { lastname: Bayley, firstname: Sarah, dt: 20211018-194553-749585 }
 - { lastname: Darlington, firstname: John, dt: 20211016-173731-952606 }
+- { lastname: WALLBANK, firstname: Mary, dt: 20211018-194205-176947 }
