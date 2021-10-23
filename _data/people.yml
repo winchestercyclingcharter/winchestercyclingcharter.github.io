@@ -524,7 +524,6 @@ people:
 - { lastname: Varde, firstname: Andrew, dt: 20210728-111910-559487 }
 - { lastname: Nixon, firstname: Patrick, dt: 20210728-145204-571905 }
 - { lastname: Huddart, firstname: Philip, dt: 20210806-181622-239960 }
-- { lastname: Baker, firstname: Rachael, dt: 20210807-180412-531466 }
 - { lastname: Todd, firstname: Peter, dt: 20210807-170743-922254 }
 - { lastname: Young, firstname: Patrick, dt: 20210807-222258-493217 }
 - { lastname: Thomas, firstname: Hywel, dt: 20210810-090243-169695 }
@@ -720,3 +719,9 @@ people:
 - { lastname: Henderson, firstname: Louise, dt: 20211022-194445-374235 }
 - { lastname: Smart, firstname: Emma, dt: 20211022-231011-415931 }
 - { lastname: Baker, firstname: Rachael , dt: 20211017-145156-049021 }
+- { lastname: Clayton, firstname: Jamie, dt: 20211019-213614-380703 }
+- { lastname: Derby, firstname: Michael, dt: 20211019-092516-053602 }
+- { lastname: Drew, firstname: Katie , dt: 20211021-152618-206039 }
+- { lastname: Rann, firstname: William, dt: 20211023-094812-514461 }
+- { lastname: Feeney, firstname: Beverley, dt: 20211022-174431-248571 }
+- { lastname: Newman, firstname: Katie, dt: 20211022-065443-223870 }
