@@ -70,6 +70,7 @@ orgs:
 - { title: Energise Me, website: 'https://www.energiseme.org/', logo: 'EM-250.png', founding: false, dt: 20211008-091550-645981 }
 - { title: 360 integrated PR, website: 'https://360integrated.com', logo: 'New 360_RGB_Logo-250.png', founding: false, dt: 20211019-115941-297649 }
 - { title: Hargroves cycles , website: 'https://www.hargrovescycles.co.uk/', logo: 'hargroves-250.png', founding: false, dt: 20211119-121152-492835 }
+- { title: The Winchester Sport Art and Leisure Trust, website: 'https://www.winchestersalt.org/', logo: 'Salt-250.png', founding: false, dt: 20220129-163827-352174 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
@@ -80,4 +81,3 @@ orgs:
 - { title: Walsh Tours, website: 'https://www.walshtours.com/', logo: '#', founding: false, dt: 20210402-174719-865823 }
 - { title: Apothecom Ltd, website: 'Apothecom.biz', logo: '#', founding: false, dt: 20211108-182106-869066 }
 - { title: St Peter's Catholic Primary School, website: 'https://www.stpetershants.co.uk/', logo: '#', founding: false, dt: 20211109-144102-931135 }
-- { title: The Winchester Sport Art and Leisure Trust, website: 'https://www.winchestersalt.org/', logo: 'salt-250.png', founding: false, dt: 20220129-163827-352174 }
