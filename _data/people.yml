@@ -701,7 +701,6 @@ people:
 - { lastname: Sclater, firstname: Claire, dt: 20211018-081345-675318 }
 - { lastname: Puig, firstname: Ottolie, dt: 20211018-101452-907398 }
 - { lastname: Swain, firstname: Andrea, dt: 20211019-210335-021092 }
-- { lastname: WALLBANK, firstname: Mary, dt: 20211018-194205-176947 }
 - { lastname: Southworth, firstname: Mika-John, dt: 20211020-115529-447020 }
 - { lastname: Graham, firstname: Rod, dt: 20211015-080520-155052 }
 - { lastname: Ridgley, firstname: Paul, dt: 20211015-080814-632745 }
@@ -752,3 +751,4 @@ people:
 - { lastname: Lamb, firstname: Anthony, dt: 20211218-073202-390764 }
 - { lastname: Barlass, firstname: Helen, dt: 20211108-180756-312395 }
 - { lastname: Newman, firstname: Paul Anthony, dt: 20220210-093132-307864 }
+- { lastname: Wallbank, firstname: Mary, dt: 20220210-194818-223674 }
