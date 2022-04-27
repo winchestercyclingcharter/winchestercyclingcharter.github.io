@@ -767,3 +767,12 @@ people:
 - { lastname: Radcliffe, firstname: Charles, dt: 20220426-212836-803032 }
 - { lastname: Granger, firstname: Delphine, dt: 20220426-214604-074256 }
 - { lastname: Westwood, firstname: Chris, dt: 20220426-214115-899067 }
+- { lastname: Jones, firstname: Richard, dt: 20220426-212754-232970 }
+- { lastname: Killeen, firstname: David, dt: 20220426-204522-187024 }
+- { lastname: Willmott, firstname: Matthew, dt: 20220427-064241-053444 }
+- { lastname: Naomi, firstname: Keysell, dt: 20220427-065340-800296 }
+- { lastname: Eve, firstname: Richard, dt: 20220427-065823-552115 }
+- { lastname: Whittaker, firstname: Abigail, dt: 20220427-073106-401512 }
+- { lastname: Rowson, firstname: James, dt: 20220427-075538-745537 }
+- { lastname: Morris, firstname: Jonathan, dt: 20220427-080813-312703 }
+- { lastname: Howison , firstname: Normand , dt: 20220427-064441-201967 }
