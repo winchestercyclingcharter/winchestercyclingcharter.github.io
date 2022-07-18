@@ -811,3 +811,5 @@ people:
 - { lastname: Holden, firstname: Adam, dt: 20220705-190117-364488 }
 - { lastname: Monsell-Holden, firstname: Emily, dt: 20220705-190242-068746 }
 - { lastname: Backus, firstname: Andrew , dt: 20220706-082624-305809 }
+- { lastname: Skipper, firstname: Jon, dt: 20220711-172744-961183 }
+- { lastname: Barnes, firstname: Francesca , dt: 20220717-093216-460220 }
