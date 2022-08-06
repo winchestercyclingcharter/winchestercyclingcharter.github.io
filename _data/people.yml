@@ -813,3 +813,5 @@ people:
 - { lastname: Backus, firstname: Andrew , dt: 20220706-082624-305809 }
 - { lastname: Skipper, firstname: Jon, dt: 20220711-172744-961183 }
 - { lastname: Barnes, firstname: Francesca , dt: 20220717-093216-460220 }
+- { lastname: Burr, firstname: Tessa, dt: 20220805-143435-836114 }
+- { lastname: Burr , firstname: Stacey, dt: 20220805-143558-229164 }
