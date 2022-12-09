@@ -826,3 +826,8 @@ people:
 - { lastname: Wise, firstname: Charlie, dt: 20220426-210454-494865 }
 - { lastname: Way, firstname: Sheila, dt: 20220918-133937-089779 }
 - { lastname: Harris, firstname: Philip, dt: 20221111-075302-918239 }
+- { lastname: Holden, firstname: Emily, dt: 20221208-151417-544422 }
+- { lastname: Verney, firstname: Juliet , dt: 20221209-074731-355537 }
+- { lastname: Fitch, firstname: Roy, dt: 20221209-085726-681382 }
+- { lastname: Kay, firstname: Debbie , dt: 20221209-090911-374987 }
+- { lastname: goulder, firstname: jocelyn, dt: 20221209-093248-492625 }
