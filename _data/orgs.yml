@@ -73,7 +73,7 @@ orgs:
 - { title: The Winchester Sport Art and Leisure Trust, website: 'https://www.winchestersalt.org/', logo: 'Salt-250.png', founding: false, dt: 20220129-163827-352174 }
 - { title: Rachel Lovegrove Yoga, website: 'https://www.orangetreeyoga.com', logo: 'RLYoga-250.png', founding: false, dt: 20220427-120045-103968 }
 - { title: Miltiadou Cook Mitzman architects, website: 'https://mcma.design/', logo: 'mcma-250.png', founding: false, dt: 20220527-060513-014590 }
-- { title: Rachel Parsons, website: 'https://www.newforestescapes.com', logo: 'NFE-logo-square.png', founding: false, dt: 20230418-081757-818401 }
+- { title: New Forest Escapes, website: 'https://www.newforestescapes.com', logo: 'NFE-logo-square.png', founding: false, dt: 20230418-081757-818401 }
 
 - { title: Kingsgate Books & Prints, website: 'http://kingsgatebooksandprints.co.uk', logo: '#', founding: false, dt: 20210309-150607-552668 }
 - { title: Perlins Community Project, website: 'https://www.perlinscommunityproject.co.uk', logo: '#', founding: false, dt: 20210221-202457-823360 }
