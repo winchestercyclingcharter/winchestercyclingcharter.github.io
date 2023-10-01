@@ -843,3 +843,13 @@ people:
 - { lastname: Frohmaier, firstname: Christopher, dt: 20230722-062429-977252 }
 - { lastname: Craig, firstname: Lucy, dt: 20230815-073007-518295 }
 - { lastname: Morse, firstname: Lee, dt: 20230820-175738-007858 }
+- { lastname: Galu, firstname: Adrian, dt: 20230930-102422-828710 }
+- { lastname: Thompson, firstname: Lewie, dt: 20230930-102424-357190 }
+- { lastname: Brown, firstname: Helen, dt: 20230930-102618-218860 }
+- { lastname: Smart, firstname: Ben, dt: 20230930-103027-598117 }
+- { lastname: Hale, firstname: Nicholas, dt: 20230930-102614-348895 }
+- { lastname: Harvey, firstname: Tom, dt: 20230930-104706-670918 }
+- { lastname: Lawrence, firstname: Penny, dt: 20230930-102517-733799 }
+- { lastname: Woodling, firstname: Ben, dt: 20230930-131141-660368 }
+- { lastname: Trevis, firstname: Rosalind, dt: 20230930-142700-018061 }
+- { lastname: Dunlop , firstname: Jonathan , dt: 20230930-102545-516191 }
