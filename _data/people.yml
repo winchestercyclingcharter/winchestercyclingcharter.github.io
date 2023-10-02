@@ -557,7 +557,6 @@ people:
 - { lastname: Hawkings, firstname: Sarah, dt: 20211015-081453-030265 }
 - { lastname: Walker, firstname: Sarah, dt: 20211015-095555-584723 }
 - { lastname: Griffiths, firstname: David, dt: 20211015-113456-571744 }
-- { lastname: Ingham, firstname: James, dt: 20211015-121234-887107 }
 - { lastname: scott, firstname: howard, dt: 20211015-124233-800300 }
 - { lastname: Gilbert, firstname: Glenn, dt: 20211015-212405-667649 }
 - { lastname: Turner, firstname: Richard, dt: 20211015-215654-337100 }
